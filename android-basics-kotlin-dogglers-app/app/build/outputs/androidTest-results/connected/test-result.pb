@@ -1,0 +1,272 @@
+
+Œ
+^
+ButtonTestscom.example.dogglersgrid_list_button_is_displayed2ŸÓ±óÄö‰¥:€Ó±ó¿ﬁäÑ"‡
+
+logcatandroid 
+«/home/nicolehwang/android-basics-kotlin-dogglers-app/app/build/outputs/androidTest-results/connected/Pixel_4_API_33(AVD) - 13/logcat-com.example.dogglers.ButtonTests-grid_list_button_is_displayed.txt"™
+
+device-infoandroidè
+å/home/nicolehwang/android-basics-kotlin-dogglers-app/app/build/outputs/androidTest-results/connected/Pixel_4_API_33(AVD) - 13/device-info.pb"´
+
+device-info.meminfoandroidà
+Ö/home/nicolehwang/android-basics-kotlin-dogglers-app/app/build/outputs/androidTest-results/connected/Pixel_4_API_33(AVD) - 13/meminfo"´
+
+device-info.cpuinfoandroidà
+Ö/home/nicolehwang/android-basics-kotlin-dogglers-app/app/build/outputs/androidTest-results/connected/Pixel_4_API_33(AVD) - 13/cpuinfoÑ
+y
+ButtonTestscom.example.dogglers8clicking_horizontal_list_button_displays_horizontal_list2€Ó±ó¿Å◊≈:›Ó±óÄÌÔª"˚
+
+logcatandroidÂ
+‚/home/nicolehwang/android-basics-kotlin-dogglers-app/app/build/outputs/androidTest-results/connected/Pixel_4_API_33(AVD) - 13/logcat-com.example.dogglers.ButtonTests-clicking_horizontal_list_button_displays_horizontal_list.txt"™
+
+device-infoandroidè
+å/home/nicolehwang/android-basics-kotlin-dogglers-app/app/build/outputs/androidTest-results/connected/Pixel_4_API_33(AVD) - 13/device-info.pb"´
+
+device-info.meminfoandroidà
+Ö/home/nicolehwang/android-basics-kotlin-dogglers-app/app/build/outputs/androidTest-results/connected/Pixel_4_API_33(AVD) - 13/meminfo"´
+
+device-info.cpuinfoandroidà
+Ö/home/nicolehwang/android-basics-kotlin-dogglers-app/app/build/outputs/androidTest-results/connected/Pixel_4_API_33(AVD) - 13/cpuinfoÎ
+l
+ButtonTestscom.example.dogglers,clicking_grid_list_button_displays_grid_list2›Ó±ó¿˛’ú:ﬂÓ±óÄËí&"Ô
+
+logcatandroidŸ
+÷/home/nicolehwang/android-basics-kotlin-dogglers-app/app/build/outputs/androidTest-results/connected/Pixel_4_API_33(AVD) - 13/logcat-com.example.dogglers.ButtonTests-clicking_grid_list_button_displays_grid_list.txt"™
+
+device-infoandroidè
+å/home/nicolehwang/android-basics-kotlin-dogglers-app/app/build/outputs/androidTest-results/connected/Pixel_4_API_33(AVD) - 13/device-info.pb"´
+
+device-info.meminfoandroidà
+Ö/home/nicolehwang/android-basics-kotlin-dogglers-app/app/build/outputs/androidTest-results/connected/Pixel_4_API_33(AVD) - 13/meminfo"´
+
+device-info.cpuinfoandroidà
+Ö/home/nicolehwang/android-basics-kotlin-dogglers-app/app/build/outputs/androidTest-results/connected/Pixel_4_API_33(AVD) - 13/cpuinfo¸
+u
+ButtonTestscom.example.dogglers4clicking_vertical_list_button_displays_vertical_list2ﬂÓ±ó¿”∆ä:‡Ó±óÄÆ´©"˜
+
+logcatandroid·
+ﬁ/home/nicolehwang/android-basics-kotlin-dogglers-app/app/build/outputs/androidTest-results/connected/Pixel_4_API_33(AVD) - 13/logcat-com.example.dogglers.ButtonTests-clicking_vertical_list_button_displays_vertical_list.txt"™
+
+device-infoandroidè
+å/home/nicolehwang/android-basics-kotlin-dogglers-app/app/build/outputs/androidTest-results/connected/Pixel_4_API_33(AVD) - 13/device-info.pb"´
+
+device-info.meminfoandroidà
+Ö/home/nicolehwang/android-basics-kotlin-dogglers-app/app/build/outputs/androidTest-results/connected/Pixel_4_API_33(AVD) - 13/meminfo"´
+
+device-info.cpuinfoandroidà
+Ö/home/nicolehwang/android-basics-kotlin-dogglers-app/app/build/outputs/androidTest-results/connected/Pixel_4_API_33(AVD) - 13/cpuinfo⁄
+d
+ButtonTestscom.example.dogglers#horizontal_list_button_is_displayed2·Ó±ó¿§àô:·Ó±óÄ«∆π"Ê
+
+logcatandroid–
+Õ/home/nicolehwang/android-basics-kotlin-dogglers-app/app/build/outputs/androidTest-results/connected/Pixel_4_API_33(AVD) - 13/logcat-com.example.dogglers.ButtonTests-horizontal_list_button_is_displayed.txt"™
+
+device-infoandroidè
+å/home/nicolehwang/android-basics-kotlin-dogglers-app/app/build/outputs/androidTest-results/connected/Pixel_4_API_33(AVD) - 13/device-info.pb"´
+
+device-info.meminfoandroidà
+Ö/home/nicolehwang/android-basics-kotlin-dogglers-app/app/build/outputs/androidTest-results/connected/Pixel_4_API_33(AVD) - 13/meminfo"´
+
+device-info.cpuinfoandroidà
+Ö/home/nicolehwang/android-basics-kotlin-dogglers-app/app/build/outputs/androidTest-results/connected/Pixel_4_API_33(AVD) - 13/cpuinfo’
+a
+ButtonTestscom.example.dogglers!vertical_list_button_is_displayed2‚Ó±óÄÕ≠ù:„Ó±óÄ≠‚"‰
+
+logcatandroidŒ
+À/home/nicolehwang/android-basics-kotlin-dogglers-app/app/build/outputs/androidTest-results/connected/Pixel_4_API_33(AVD) - 13/logcat-com.example.dogglers.ButtonTests-vertical_list_button_is_displayed.txt"™
+
+device-infoandroidè
+å/home/nicolehwang/android-basics-kotlin-dogglers-app/app/build/outputs/androidTest-results/connected/Pixel_4_API_33(AVD) - 13/device-info.pb"´
+
+device-info.meminfoandroidà
+Ö/home/nicolehwang/android-basics-kotlin-dogglers-app/app/build/outputs/androidTest-results/connected/Pixel_4_API_33(AVD) - 13/meminfo"´
+
+device-info.cpuinfoandroidà
+Ö/home/nicolehwang/android-basics-kotlin-dogglers-app/app/build/outputs/androidTest-results/connected/Pixel_4_API_33(AVD) - 13/cpuinfo«
+Z
+GridListTestscom.example.dogglersrecycler_view_item_count2„Ó±ó¿òñÈ:‰Ó±óÄ ¨t"›
+
+logcatandroid«
+ƒ/home/nicolehwang/android-basics-kotlin-dogglers-app/app/build/outputs/androidTest-results/connected/Pixel_4_API_33(AVD) - 13/logcat-com.example.dogglers.GridListTests-recycler_view_item_count.txt"™
+
+device-infoandroidè
+å/home/nicolehwang/android-basics-kotlin-dogglers-app/app/build/outputs/androidTest-results/connected/Pixel_4_API_33(AVD) - 13/device-info.pb"´
+
+device-info.meminfoandroidà
+Ö/home/nicolehwang/android-basics-kotlin-dogglers-app/app/build/outputs/androidTest-results/connected/Pixel_4_API_33(AVD) - 13/meminfo"´
+
+device-info.cpuinfoandroidà
+Ö/home/nicolehwang/android-basics-kotlin-dogglers-app/app/build/outputs/androidTest-results/connected/Pixel_4_API_33(AVD) - 13/cpuinfo÷
+b
+GridListTestscom.example.dogglersgrid_list_content_on_first_page2‰Ó±óÄ‰˛¥:ÂÓ±óÄœÄê"‰
+
+logcatandroidŒ
+À/home/nicolehwang/android-basics-kotlin-dogglers-app/app/build/outputs/androidTest-results/connected/Pixel_4_API_33(AVD) - 13/logcat-com.example.dogglers.GridListTests-grid_list_content_on_first_page.txt"™
+
+device-infoandroidè
+å/home/nicolehwang/android-basics-kotlin-dogglers-app/app/build/outputs/androidTest-results/connected/Pixel_4_API_33(AVD) - 13/device-info.pb"´
+
+device-info.meminfoandroidà
+Ö/home/nicolehwang/android-basics-kotlin-dogglers-app/app/build/outputs/androidTest-results/connected/Pixel_4_API_33(AVD) - 13/meminfo"´
+
+device-info.cpuinfoandroidà
+Ö/home/nicolehwang/android-basics-kotlin-dogglers-app/app/build/outputs/androidTest-results/connected/Pixel_4_API_33(AVD) - 13/cpuinfoº
+U
+GridListTestscom.example.dogglersvertical_scrolling2ÂÓ±óÄÈ“–:ÊÓ±ó¿„ﬁü"◊
+
+logcatandroid¡
+æ/home/nicolehwang/android-basics-kotlin-dogglers-app/app/build/outputs/androidTest-results/connected/Pixel_4_API_33(AVD) - 13/logcat-com.example.dogglers.GridListTests-vertical_scrolling.txt"™
+
+device-infoandroidè
+å/home/nicolehwang/android-basics-kotlin-dogglers-app/app/build/outputs/androidTest-results/connected/Pixel_4_API_33(AVD) - 13/device-info.pb"´
+
+device-info.meminfoandroidà
+Ö/home/nicolehwang/android-basics-kotlin-dogglers-app/app/build/outputs/androidTest-results/connected/Pixel_4_API_33(AVD) - 13/meminfo"´
+
+device-info.cpuinfoandroidà
+Ö/home/nicolehwang/android-basics-kotlin-dogglers-app/app/build/outputs/androidTest-results/connected/Pixel_4_API_33(AVD) - 13/cpuinfo‹
+e
+GridListTestscom.example.dogglers"grid_list_content_at_last_position2ÊÓ±óÄ˘Ûﬂ:ÁÓ±ó¿ÛˇÆ"Á
+
+logcatandroid—
+Œ/home/nicolehwang/android-basics-kotlin-dogglers-app/app/build/outputs/androidTest-results/connected/Pixel_4_API_33(AVD) - 13/logcat-com.example.dogglers.GridListTests-grid_list_content_at_last_position.txt"™
+
+device-infoandroidè
+å/home/nicolehwang/android-basics-kotlin-dogglers-app/app/build/outputs/androidTest-results/connected/Pixel_4_API_33(AVD) - 13/device-info.pb"´
+
+device-info.meminfoandroidà
+Ö/home/nicolehwang/android-basics-kotlin-dogglers-app/app/build/outputs/androidTest-results/connected/Pixel_4_API_33(AVD) - 13/meminfo"´
+
+device-info.cpuinfoandroidà
+Ö/home/nicolehwang/android-basics-kotlin-dogglers-app/app/build/outputs/androidTest-results/connected/Pixel_4_API_33(AVD) - 13/cpuinfoﬁ
+f
+GridListTestscom.example.dogglers#grid_list_content_at_first_position2ÁÓ±óÄ˛«˚:ËÓ±ó¿ØﬁÜ"Ë
+
+logcatandroid“
+œ/home/nicolehwang/android-basics-kotlin-dogglers-app/app/build/outputs/androidTest-results/connected/Pixel_4_API_33(AVD) - 13/logcat-com.example.dogglers.GridListTests-grid_list_content_at_first_position.txt"™
+
+device-infoandroidè
+å/home/nicolehwang/android-basics-kotlin-dogglers-app/app/build/outputs/androidTest-results/connected/Pixel_4_API_33(AVD) - 13/device-info.pb"´
+
+device-info.meminfoandroidà
+Ö/home/nicolehwang/android-basics-kotlin-dogglers-app/app/build/outputs/androidTest-results/connected/Pixel_4_API_33(AVD) - 13/meminfo"´
+
+device-info.cpuinfoandroidà
+Ö/home/nicolehwang/android-basics-kotlin-dogglers-app/app/build/outputs/androidTest-results/connected/Pixel_4_API_33(AVD) - 13/cpuinfo”
+`
+HorizontalListTestscom.example.dogglersrecycler_view_item_count2ÈÓ±óÄê°:ÎÓ±óÄ¯≈©"„
+
+logcatandroidÕ
+ /home/nicolehwang/android-basics-kotlin-dogglers-app/app/build/outputs/androidTest-results/connected/Pixel_4_API_33(AVD) - 13/logcat-com.example.dogglers.HorizontalListTests-recycler_view_item_count.txt"™
+
+device-infoandroidè
+å/home/nicolehwang/android-basics-kotlin-dogglers-app/app/build/outputs/androidTest-results/connected/Pixel_4_API_33(AVD) - 13/device-info.pb"´
+
+device-info.meminfoandroidà
+Ö/home/nicolehwang/android-basics-kotlin-dogglers-app/app/build/outputs/androidTest-results/connected/Pixel_4_API_33(AVD) - 13/meminfo"´
+
+device-info.cpuinfoandroidà
+Ö/home/nicolehwang/android-basics-kotlin-dogglers-app/app/build/outputs/androidTest-results/connected/Pixel_4_API_33(AVD) - 13/cpuinfoÀ
+\
+HorizontalListTestscom.example.dogglershorizontal_scrolling2ÏÓ±óÄﬂò%:ÏÓ±óÄ˝ô≈"ﬂ
+
+logcatandroid…
+∆/home/nicolehwang/android-basics-kotlin-dogglers-app/app/build/outputs/androidTest-results/connected/Pixel_4_API_33(AVD) - 13/logcat-com.example.dogglers.HorizontalListTests-horizontal_scrolling.txt"™
+
+device-infoandroidè
+å/home/nicolehwang/android-basics-kotlin-dogglers-app/app/build/outputs/androidTest-results/connected/Pixel_4_API_33(AVD) - 13/device-info.pb"´
+
+device-info.meminfoandroidà
+Ö/home/nicolehwang/android-basics-kotlin-dogglers-app/app/build/outputs/androidTest-results/connected/Pixel_4_API_33(AVD) - 13/meminfo"´
+
+device-info.cpuinfoandroidà
+Ö/home/nicolehwang/android-basics-kotlin-dogglers-app/app/build/outputs/androidTest-results/connected/Pixel_4_API_33(AVD) - 13/cpuinfo˜
+r
+HorizontalListTestscom.example.dogglers*horizontal_scroll_content_at_last_position2ÌÓ±óÄÉÅ):ÌÓ±ó¿ë¯‘"ı
+
+logcatandroidﬂ
+‹/home/nicolehwang/android-basics-kotlin-dogglers-app/app/build/outputs/androidTest-results/connected/Pixel_4_API_33(AVD) - 13/logcat-com.example.dogglers.HorizontalListTests-horizontal_scroll_content_at_last_position.txt"™
+
+device-infoandroidè
+å/home/nicolehwang/android-basics-kotlin-dogglers-app/app/build/outputs/androidTest-results/connected/Pixel_4_API_33(AVD) - 13/device-info.pb"´
+
+device-info.meminfoandroidà
+Ö/home/nicolehwang/android-basics-kotlin-dogglers-app/app/build/outputs/androidTest-results/connected/Pixel_4_API_33(AVD) - 13/meminfo"´
+
+device-info.cpuinfoandroidà
+Ö/home/nicolehwang/android-basics-kotlin-dogglers-app/app/build/outputs/androidTest-results/connected/Pixel_4_API_33(AVD) - 13/cpuinfo¯
+r
+HorizontalListTestscom.example.dogglers+horizontal_scroll_content_at_first_position2ÓÓ±óÄì¢8:ÔÓ±ó¿‹Æ"ˆ
+
+logcatandroid‡
+›/home/nicolehwang/android-basics-kotlin-dogglers-app/app/build/outputs/androidTest-results/connected/Pixel_4_API_33(AVD) - 13/logcat-com.example.dogglers.HorizontalListTests-horizontal_scroll_content_at_first_position.txt"™
+
+device-infoandroidè
+å/home/nicolehwang/android-basics-kotlin-dogglers-app/app/build/outputs/androidTest-results/connected/Pixel_4_API_33(AVD) - 13/device-info.pb"´
+
+device-info.meminfoandroidà
+Ö/home/nicolehwang/android-basics-kotlin-dogglers-app/app/build/outputs/androidTest-results/connected/Pixel_4_API_33(AVD) - 13/meminfo"´
+
+device-info.cpuinfoandroidà
+Ö/home/nicolehwang/android-basics-kotlin-dogglers-app/app/build/outputs/androidTest-results/connected/Pixel_4_API_33(AVD) - 13/cpuinfoœ
+^
+VerticalListTestscom.example.dogglersrecycler_view_item_count2ÔÓ±ó¿◊ÏÔ:Ó±óÄ≥‰V"·
+
+logcatandroidÀ
+»/home/nicolehwang/android-basics-kotlin-dogglers-app/app/build/outputs/androidTest-results/connected/Pixel_4_API_33(AVD) - 13/logcat-com.example.dogglers.VerticalListTests-recycler_view_item_count.txt"™
+
+device-infoandroidè
+å/home/nicolehwang/android-basics-kotlin-dogglers-app/app/build/outputs/androidTest-results/connected/Pixel_4_API_33(AVD) - 13/device-info.pb"´
+
+device-info.meminfoandroidà
+Ö/home/nicolehwang/android-basics-kotlin-dogglers-app/app/build/outputs/androidTest-results/connected/Pixel_4_API_33(AVD) - 13/meminfo"´
+
+device-info.cpuinfoandroidà
+Ö/home/nicolehwang/android-basics-kotlin-dogglers-app/app/build/outputs/androidTest-results/connected/Pixel_4_API_33(AVD) - 13/cpuinfoÔ
+n
+VerticalListTestscom.example.dogglers(vertical_scroll_content_at_last_position2Ó±óÄÕ∂ó:ÒÓ±óÄ≠Î~"Ò
+
+logcatandroid€
+ÿ/home/nicolehwang/android-basics-kotlin-dogglers-app/app/build/outputs/androidTest-results/connected/Pixel_4_API_33(AVD) - 13/logcat-com.example.dogglers.VerticalListTests-vertical_scroll_content_at_last_position.txt"™
+
+device-infoandroidè
+å/home/nicolehwang/android-basics-kotlin-dogglers-app/app/build/outputs/androidTest-results/connected/Pixel_4_API_33(AVD) - 13/device-info.pb"´
+
+device-info.meminfoandroidà
+Ö/home/nicolehwang/android-basics-kotlin-dogglers-app/app/build/outputs/androidTest-results/connected/Pixel_4_API_33(AVD) - 13/meminfo"´
+
+device-info.cpuinfoandroidà
+Ö/home/nicolehwang/android-basics-kotlin-dogglers-app/app/build/outputs/androidTest-results/connected/Pixel_4_API_33(AVD) - 13/cpuinfoƒ
+Y
+VerticalListTestscom.example.dogglersvertical_scrolling2ÒÓ±óÄ®©◊:ÚÓ±ó¿øˆõ"€
+
+logcatandroid≈
+¬/home/nicolehwang/android-basics-kotlin-dogglers-app/app/build/outputs/androidTest-results/connected/Pixel_4_API_33(AVD) - 13/logcat-com.example.dogglers.VerticalListTests-vertical_scrolling.txt"™
+
+device-infoandroidè
+å/home/nicolehwang/android-basics-kotlin-dogglers-app/app/build/outputs/androidTest-results/connected/Pixel_4_API_33(AVD) - 13/device-info.pb"´
+
+device-info.meminfoandroidà
+Ö/home/nicolehwang/android-basics-kotlin-dogglers-app/app/build/outputs/androidTest-results/connected/Pixel_4_API_33(AVD) - 13/meminfo"´
+
+device-info.cpuinfoandroidà
+Ö/home/nicolehwang/android-basics-kotlin-dogglers-app/app/build/outputs/androidTest-results/connected/Pixel_4_API_33(AVD) - 13/cpuinfoÚ
+p
+VerticalListTestscom.example.dogglers)vertical_scroll_content_at_first_position2ÚÓ±ó¿Ÿ»‹:ÛÓ±ó¿Áçˇ"Ú
+
+logcatandroid‹
+Ÿ/home/nicolehwang/android-basics-kotlin-dogglers-app/app/build/outputs/androidTest-results/connected/Pixel_4_API_33(AVD) - 13/logcat-com.example.dogglers.VerticalListTests-vertical_scroll_content_at_first_position.txt"™
+
+device-infoandroidè
+å/home/nicolehwang/android-basics-kotlin-dogglers-app/app/build/outputs/androidTest-results/connected/Pixel_4_API_33(AVD) - 13/device-info.pb"´
+
+device-info.meminfoandroidà
+Ö/home/nicolehwang/android-basics-kotlin-dogglers-app/app/build/outputs/androidTest-results/connected/Pixel_4_API_33(AVD) - 13/meminfo"´
+
+device-info.cpuinfoandroidà
+Ö/home/nicolehwang/android-basics-kotlin-dogglers-app/app/build/outputs/androidTest-results/connected/Pixel_4_API_33(AVD) - 13/cpuinfo*è
+c
+test-results.logOcom.google.testing.platform.runtime.android.driver.AndroidInstrumentationDriverô
+ñ/home/nicolehwang/android-basics-kotlin-dogglers-app/app/build/outputs/androidTest-results/connected/Pixel_4_API_33(AVD) - 13/testlog/test-results.log 2
+text/plain

@@ -1,0 +1,1004 @@
+# 2022-08-05T01:50:44.357Z:
+test_suite_meta_data {
+  scheduled_test_case_count: 19
+}
+test_status: PASSED
+test_result {
+  test_case {
+    test_class: "ButtonTests"
+    test_package: "com.example.dogglers"
+    test_method: "grid_list_button_is_displayed"
+    start_time {
+      seconds: 1659664217
+      nanos: 916000000
+    }
+    end_time {
+      seconds: 1659664219
+      nanos: 277000000
+    }
+  }
+  test_status: PASSED
+  output_artifact {
+    label {
+      label: "logcat"
+      namespace: "android"
+    }
+    source_path {
+      path: "/home/nicolehwang/android-basics-kotlin-dogglers-app/app/build/outputs/androidTest-results/connected/Pixel_4_API_33(AVD) - 13/logcat-com.example.dogglers.ButtonTests-grid_list_button_is_displayed.txt"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info"
+      namespace: "android"
+    }
+    source_path {
+      path: "/home/nicolehwang/android-basics-kotlin-dogglers-app/app/build/outputs/androidTest-results/connected/Pixel_4_API_33(AVD) - 13/device-info.pb"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.meminfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "/home/nicolehwang/android-basics-kotlin-dogglers-app/app/build/outputs/androidTest-results/connected/Pixel_4_API_33(AVD) - 13/meminfo"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.cpuinfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "/home/nicolehwang/android-basics-kotlin-dogglers-app/app/build/outputs/androidTest-results/connected/Pixel_4_API_33(AVD) - 13/cpuinfo"
+    }
+  }
+}
+test_result {
+  test_case {
+    test_class: "ButtonTests"
+    test_package: "com.example.dogglers"
+    test_method: "clicking_horizontal_list_button_displays_horizontal_list"
+    start_time {
+      seconds: 1659664219
+      nanos: 683000000
+    }
+    end_time {
+      seconds: 1659664221
+      nanos: 394000000
+    }
+  }
+  test_status: PASSED
+  output_artifact {
+    label {
+      label: "logcat"
+      namespace: "android"
+    }
+    source_path {
+      path: "/home/nicolehwang/android-basics-kotlin-dogglers-app/app/build/outputs/androidTest-results/connected/Pixel_4_API_33(AVD) - 13/logcat-com.example.dogglers.ButtonTests-clicking_horizontal_list_button_displays_horizontal_list.txt"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info"
+      namespace: "android"
+    }
+    source_path {
+      path: "/home/nicolehwang/android-basics-kotlin-dogglers-app/app/build/outputs/androidTest-results/connected/Pixel_4_API_33(AVD) - 13/device-info.pb"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.meminfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "/home/nicolehwang/android-basics-kotlin-dogglers-app/app/build/outputs/androidTest-results/connected/Pixel_4_API_33(AVD) - 13/meminfo"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.cpuinfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "/home/nicolehwang/android-basics-kotlin-dogglers-app/app/build/outputs/androidTest-results/connected/Pixel_4_API_33(AVD) - 13/cpuinfo"
+    }
+  }
+}
+test_result {
+  test_case {
+    test_class: "ButtonTests"
+    test_package: "com.example.dogglers"
+    test_method: "clicking_grid_list_button_displays_grid_list"
+    start_time {
+      seconds: 1659664221
+      nanos: 597000000
+    }
+    end_time {
+      seconds: 1659664223
+      nanos: 80000000
+    }
+  }
+  test_status: PASSED
+  output_artifact {
+    label {
+      label: "logcat"
+      namespace: "android"
+    }
+    source_path {
+      path: "/home/nicolehwang/android-basics-kotlin-dogglers-app/app/build/outputs/androidTest-results/connected/Pixel_4_API_33(AVD) - 13/logcat-com.example.dogglers.ButtonTests-clicking_grid_list_button_displays_grid_list.txt"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info"
+      namespace: "android"
+    }
+    source_path {
+      path: "/home/nicolehwang/android-basics-kotlin-dogglers-app/app/build/outputs/androidTest-results/connected/Pixel_4_API_33(AVD) - 13/device-info.pb"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.meminfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "/home/nicolehwang/android-basics-kotlin-dogglers-app/app/build/outputs/androidTest-results/connected/Pixel_4_API_33(AVD) - 13/meminfo"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.cpuinfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "/home/nicolehwang/android-basics-kotlin-dogglers-app/app/build/outputs/androidTest-results/connected/Pixel_4_API_33(AVD) - 13/cpuinfo"
+    }
+  }
+}
+test_result {
+  test_case {
+    test_class: "ButtonTests"
+    test_package: "com.example.dogglers"
+    test_method: "clicking_vertical_list_button_displays_vertical_list"
+    start_time {
+      seconds: 1659664223
+      nanos: 559000000
+    }
+    end_time {
+      seconds: 1659664224
+      nanos: 892000000
+    }
+  }
+  test_status: PASSED
+  output_artifact {
+    label {
+      label: "logcat"
+      namespace: "android"
+    }
+    source_path {
+      path: "/home/nicolehwang/android-basics-kotlin-dogglers-app/app/build/outputs/androidTest-results/connected/Pixel_4_API_33(AVD) - 13/logcat-com.example.dogglers.ButtonTests-clicking_vertical_list_button_displays_vertical_list.txt"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info"
+      namespace: "android"
+    }
+    source_path {
+      path: "/home/nicolehwang/android-basics-kotlin-dogglers-app/app/build/outputs/androidTest-results/connected/Pixel_4_API_33(AVD) - 13/device-info.pb"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.meminfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "/home/nicolehwang/android-basics-kotlin-dogglers-app/app/build/outputs/androidTest-results/connected/Pixel_4_API_33(AVD) - 13/meminfo"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.cpuinfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "/home/nicolehwang/android-basics-kotlin-dogglers-app/app/build/outputs/androidTest-results/connected/Pixel_4_API_33(AVD) - 13/cpuinfo"
+    }
+  }
+}
+test_result {
+  test_case {
+    test_class: "ButtonTests"
+    test_package: "com.example.dogglers"
+    test_method: "horizontal_list_button_is_displayed"
+    start_time {
+      seconds: 1659664225
+      nanos: 321000000
+    }
+    end_time {
+      seconds: 1659664225
+      nanos: 926000000
+    }
+  }
+  test_status: PASSED
+  output_artifact {
+    label {
+      label: "logcat"
+      namespace: "android"
+    }
+    source_path {
+      path: "/home/nicolehwang/android-basics-kotlin-dogglers-app/app/build/outputs/androidTest-results/connected/Pixel_4_API_33(AVD) - 13/logcat-com.example.dogglers.ButtonTests-horizontal_list_button_is_displayed.txt"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info"
+      namespace: "android"
+    }
+    source_path {
+      path: "/home/nicolehwang/android-basics-kotlin-dogglers-app/app/build/outputs/androidTest-results/connected/Pixel_4_API_33(AVD) - 13/device-info.pb"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.meminfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "/home/nicolehwang/android-basics-kotlin-dogglers-app/app/build/outputs/androidTest-results/connected/Pixel_4_API_33(AVD) - 13/meminfo"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.cpuinfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "/home/nicolehwang/android-basics-kotlin-dogglers-app/app/build/outputs/androidTest-results/connected/Pixel_4_API_33(AVD) - 13/cpuinfo"
+    }
+  }
+}
+test_result {
+  test_case {
+    test_class: "ButtonTests"
+    test_package: "com.example.dogglers"
+    test_method: "vertical_list_button_is_displayed"
+    start_time {
+      seconds: 1659664226
+      nanos: 330000000
+    }
+    end_time {
+      seconds: 1659664227
+      nanos: 10000000
+    }
+  }
+  test_status: PASSED
+  output_artifact {
+    label {
+      label: "logcat"
+      namespace: "android"
+    }
+    source_path {
+      path: "/home/nicolehwang/android-basics-kotlin-dogglers-app/app/build/outputs/androidTest-results/connected/Pixel_4_API_33(AVD) - 13/logcat-com.example.dogglers.ButtonTests-vertical_list_button_is_displayed.txt"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info"
+      namespace: "android"
+    }
+    source_path {
+      path: "/home/nicolehwang/android-basics-kotlin-dogglers-app/app/build/outputs/androidTest-results/connected/Pixel_4_API_33(AVD) - 13/device-info.pb"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.meminfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "/home/nicolehwang/android-basics-kotlin-dogglers-app/app/build/outputs/androidTest-results/connected/Pixel_4_API_33(AVD) - 13/meminfo"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.cpuinfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "/home/nicolehwang/android-basics-kotlin-dogglers-app/app/build/outputs/androidTest-results/connected/Pixel_4_API_33(AVD) - 13/cpuinfo"
+    }
+  }
+}
+test_result {
+  test_case {
+    test_class: "GridListTests"
+    test_package: "com.example.dogglers"
+    test_method: "recycler_view_item_count"
+    start_time {
+      seconds: 1659664227
+      nanos: 489000000
+    }
+    end_time {
+      seconds: 1659664228
+      nanos: 244000000
+    }
+  }
+  test_status: PASSED
+  output_artifact {
+    label {
+      label: "logcat"
+      namespace: "android"
+    }
+    source_path {
+      path: "/home/nicolehwang/android-basics-kotlin-dogglers-app/app/build/outputs/androidTest-results/connected/Pixel_4_API_33(AVD) - 13/logcat-com.example.dogglers.GridListTests-recycler_view_item_count.txt"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info"
+      namespace: "android"
+    }
+    source_path {
+      path: "/home/nicolehwang/android-basics-kotlin-dogglers-app/app/build/outputs/androidTest-results/connected/Pixel_4_API_33(AVD) - 13/device-info.pb"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.meminfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "/home/nicolehwang/android-basics-kotlin-dogglers-app/app/build/outputs/androidTest-results/connected/Pixel_4_API_33(AVD) - 13/meminfo"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.cpuinfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "/home/nicolehwang/android-basics-kotlin-dogglers-app/app/build/outputs/androidTest-results/connected/Pixel_4_API_33(AVD) - 13/cpuinfo"
+    }
+  }
+}
+test_result {
+  test_case {
+    test_class: "GridListTests"
+    test_package: "com.example.dogglers"
+    test_method: "grid_list_content_on_first_page"
+    start_time {
+      seconds: 1659664228
+      nanos: 648000000
+    }
+    end_time {
+      seconds: 1659664229
+      nanos: 302000000
+    }
+  }
+  test_status: PASSED
+  output_artifact {
+    label {
+      label: "logcat"
+      namespace: "android"
+    }
+    source_path {
+      path: "/home/nicolehwang/android-basics-kotlin-dogglers-app/app/build/outputs/androidTest-results/connected/Pixel_4_API_33(AVD) - 13/logcat-com.example.dogglers.GridListTests-grid_list_content_on_first_page.txt"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info"
+      namespace: "android"
+    }
+    source_path {
+      path: "/home/nicolehwang/android-basics-kotlin-dogglers-app/app/build/outputs/androidTest-results/connected/Pixel_4_API_33(AVD) - 13/device-info.pb"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.meminfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "/home/nicolehwang/android-basics-kotlin-dogglers-app/app/build/outputs/androidTest-results/connected/Pixel_4_API_33(AVD) - 13/meminfo"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.cpuinfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "/home/nicolehwang/android-basics-kotlin-dogglers-app/app/build/outputs/androidTest-results/connected/Pixel_4_API_33(AVD) - 13/cpuinfo"
+    }
+  }
+}
+test_result {
+  test_case {
+    test_class: "GridListTests"
+    test_package: "com.example.dogglers"
+    test_method: "vertical_scrolling"
+    start_time {
+      seconds: 1659664229
+      nanos: 706000000
+    }
+    end_time {
+      seconds: 1659664230
+      nanos: 335000000
+    }
+  }
+  test_status: PASSED
+  output_artifact {
+    label {
+      label: "logcat"
+      namespace: "android"
+    }
+    source_path {
+      path: "/home/nicolehwang/android-basics-kotlin-dogglers-app/app/build/outputs/androidTest-results/connected/Pixel_4_API_33(AVD) - 13/logcat-com.example.dogglers.GridListTests-vertical_scrolling.txt"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info"
+      namespace: "android"
+    }
+    source_path {
+      path: "/home/nicolehwang/android-basics-kotlin-dogglers-app/app/build/outputs/androidTest-results/connected/Pixel_4_API_33(AVD) - 13/device-info.pb"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.meminfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "/home/nicolehwang/android-basics-kotlin-dogglers-app/app/build/outputs/androidTest-results/connected/Pixel_4_API_33(AVD) - 13/meminfo"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.cpuinfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "/home/nicolehwang/android-basics-kotlin-dogglers-app/app/build/outputs/androidTest-results/connected/Pixel_4_API_33(AVD) - 13/cpuinfo"
+    }
+  }
+}
+test_result {
+  test_case {
+    test_class: "GridListTests"
+    test_package: "com.example.dogglers"
+    test_method: "grid_list_content_at_last_position"
+    start_time {
+      seconds: 1659664230
+      nanos: 738000000
+    }
+    end_time {
+      seconds: 1659664231
+      nanos: 367000000
+    }
+  }
+  test_status: PASSED
+  output_artifact {
+    label {
+      label: "logcat"
+      namespace: "android"
+    }
+    source_path {
+      path: "/home/nicolehwang/android-basics-kotlin-dogglers-app/app/build/outputs/androidTest-results/connected/Pixel_4_API_33(AVD) - 13/logcat-com.example.dogglers.GridListTests-grid_list_content_at_last_position.txt"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info"
+      namespace: "android"
+    }
+    source_path {
+      path: "/home/nicolehwang/android-basics-kotlin-dogglers-app/app/build/outputs/androidTest-results/connected/Pixel_4_API_33(AVD) - 13/device-info.pb"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.meminfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "/home/nicolehwang/android-basics-kotlin-dogglers-app/app/build/outputs/androidTest-results/connected/Pixel_4_API_33(AVD) - 13/meminfo"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.cpuinfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "/home/nicolehwang/android-basics-kotlin-dogglers-app/app/build/outputs/androidTest-results/connected/Pixel_4_API_33(AVD) - 13/cpuinfo"
+    }
+  }
+}
+test_result {
+  test_case {
+    test_class: "GridListTests"
+    test_package: "com.example.dogglers"
+    test_method: "grid_list_content_at_first_position"
+    start_time {
+      seconds: 1659664231
+      nanos: 796000000
+    }
+    end_time {
+      seconds: 1659664232
+      nanos: 551000000
+    }
+  }
+  test_status: PASSED
+  output_artifact {
+    label {
+      label: "logcat"
+      namespace: "android"
+    }
+    source_path {
+      path: "/home/nicolehwang/android-basics-kotlin-dogglers-app/app/build/outputs/androidTest-results/connected/Pixel_4_API_33(AVD) - 13/logcat-com.example.dogglers.GridListTests-grid_list_content_at_first_position.txt"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info"
+      namespace: "android"
+    }
+    source_path {
+      path: "/home/nicolehwang/android-basics-kotlin-dogglers-app/app/build/outputs/androidTest-results/connected/Pixel_4_API_33(AVD) - 13/device-info.pb"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.meminfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "/home/nicolehwang/android-basics-kotlin-dogglers-app/app/build/outputs/androidTest-results/connected/Pixel_4_API_33(AVD) - 13/meminfo"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.cpuinfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "/home/nicolehwang/android-basics-kotlin-dogglers-app/app/build/outputs/androidTest-results/connected/Pixel_4_API_33(AVD) - 13/cpuinfo"
+    }
+  }
+}
+test_result {
+  test_case {
+    test_class: "HorizontalListTests"
+    test_package: "com.example.dogglers"
+    test_method: "recycler_view_item_count"
+    start_time {
+      seconds: 1659664233
+      nanos: 32000000
+    }
+    end_time {
+      seconds: 1659664235
+      nanos: 624000000
+    }
+  }
+  test_status: PASSED
+  output_artifact {
+    label {
+      label: "logcat"
+      namespace: "android"
+    }
+    source_path {
+      path: "/home/nicolehwang/android-basics-kotlin-dogglers-app/app/build/outputs/androidTest-results/connected/Pixel_4_API_33(AVD) - 13/logcat-com.example.dogglers.HorizontalListTests-recycler_view_item_count.txt"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info"
+      namespace: "android"
+    }
+    source_path {
+      path: "/home/nicolehwang/android-basics-kotlin-dogglers-app/app/build/outputs/androidTest-results/connected/Pixel_4_API_33(AVD) - 13/device-info.pb"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.meminfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "/home/nicolehwang/android-basics-kotlin-dogglers-app/app/build/outputs/androidTest-results/connected/Pixel_4_API_33(AVD) - 13/meminfo"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.cpuinfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "/home/nicolehwang/android-basics-kotlin-dogglers-app/app/build/outputs/androidTest-results/connected/Pixel_4_API_33(AVD) - 13/cpuinfo"
+    }
+  }
+}
+test_result {
+  test_case {
+    test_class: "HorizontalListTests"
+    test_package: "com.example.dogglers"
+    test_method: "horizontal_scrolling"
+    start_time {
+      seconds: 1659664236
+      nanos: 78000000
+    }
+    end_time {
+      seconds: 1659664236
+      nanos: 682000000
+    }
+  }
+  test_status: PASSED
+  output_artifact {
+    label {
+      label: "logcat"
+      namespace: "android"
+    }
+    source_path {
+      path: "/home/nicolehwang/android-basics-kotlin-dogglers-app/app/build/outputs/androidTest-results/connected/Pixel_4_API_33(AVD) - 13/logcat-com.example.dogglers.HorizontalListTests-horizontal_scrolling.txt"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info"
+      namespace: "android"
+    }
+    source_path {
+      path: "/home/nicolehwang/android-basics-kotlin-dogglers-app/app/build/outputs/androidTest-results/connected/Pixel_4_API_33(AVD) - 13/device-info.pb"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.meminfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "/home/nicolehwang/android-basics-kotlin-dogglers-app/app/build/outputs/androidTest-results/connected/Pixel_4_API_33(AVD) - 13/meminfo"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.cpuinfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "/home/nicolehwang/android-basics-kotlin-dogglers-app/app/build/outputs/androidTest-results/connected/Pixel_4_API_33(AVD) - 13/cpuinfo"
+    }
+  }
+}
+test_result {
+  test_case {
+    test_class: "HorizontalListTests"
+    test_package: "com.example.dogglers"
+    test_method: "horizontal_scroll_content_at_last_position"
+    start_time {
+      seconds: 1659664237
+      nanos: 86000000
+    }
+    end_time {
+      seconds: 1659664237
+      nanos: 715000000
+    }
+  }
+  test_status: PASSED
+  output_artifact {
+    label {
+      label: "logcat"
+      namespace: "android"
+    }
+    source_path {
+      path: "/home/nicolehwang/android-basics-kotlin-dogglers-app/app/build/outputs/androidTest-results/connected/Pixel_4_API_33(AVD) - 13/logcat-com.example.dogglers.HorizontalListTests-horizontal_scroll_content_at_last_position.txt"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info"
+      namespace: "android"
+    }
+    source_path {
+      path: "/home/nicolehwang/android-basics-kotlin-dogglers-app/app/build/outputs/androidTest-results/connected/Pixel_4_API_33(AVD) - 13/device-info.pb"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.meminfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "/home/nicolehwang/android-basics-kotlin-dogglers-app/app/build/outputs/androidTest-results/connected/Pixel_4_API_33(AVD) - 13/meminfo"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.cpuinfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "/home/nicolehwang/android-basics-kotlin-dogglers-app/app/build/outputs/androidTest-results/connected/Pixel_4_API_33(AVD) - 13/cpuinfo"
+    }
+  }
+}
+test_result {
+  test_case {
+    test_class: "HorizontalListTests"
+    test_package: "com.example.dogglers"
+    test_method: "horizontal_scroll_content_at_first_position"
+    start_time {
+      seconds: 1659664238
+      nanos: 118000000
+    }
+    end_time {
+      seconds: 1659664239
+      nanos: 49000000
+    }
+  }
+  test_status: PASSED
+  output_artifact {
+    label {
+      label: "logcat"
+      namespace: "android"
+    }
+    source_path {
+      path: "/home/nicolehwang/android-basics-kotlin-dogglers-app/app/build/outputs/androidTest-results/connected/Pixel_4_API_33(AVD) - 13/logcat-com.example.dogglers.HorizontalListTests-horizontal_scroll_content_at_first_position.txt"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info"
+      namespace: "android"
+    }
+    source_path {
+      path: "/home/nicolehwang/android-basics-kotlin-dogglers-app/app/build/outputs/androidTest-results/connected/Pixel_4_API_33(AVD) - 13/device-info.pb"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.meminfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "/home/nicolehwang/android-basics-kotlin-dogglers-app/app/build/outputs/androidTest-results/connected/Pixel_4_API_33(AVD) - 13/meminfo"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.cpuinfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "/home/nicolehwang/android-basics-kotlin-dogglers-app/app/build/outputs/androidTest-results/connected/Pixel_4_API_33(AVD) - 13/cpuinfo"
+    }
+  }
+}
+test_result {
+  test_case {
+    test_class: "VerticalListTests"
+    test_package: "com.example.dogglers"
+    test_method: "recycler_view_item_count"
+    start_time {
+      seconds: 1659664239
+      nanos: 503000000
+    }
+    end_time {
+      seconds: 1659664240
+      nanos: 182000000
+    }
+  }
+  test_status: PASSED
+  output_artifact {
+    label {
+      label: "logcat"
+      namespace: "android"
+    }
+    source_path {
+      path: "/home/nicolehwang/android-basics-kotlin-dogglers-app/app/build/outputs/androidTest-results/connected/Pixel_4_API_33(AVD) - 13/logcat-com.example.dogglers.VerticalListTests-recycler_view_item_count.txt"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info"
+      namespace: "android"
+    }
+    source_path {
+      path: "/home/nicolehwang/android-basics-kotlin-dogglers-app/app/build/outputs/androidTest-results/connected/Pixel_4_API_33(AVD) - 13/device-info.pb"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.meminfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "/home/nicolehwang/android-basics-kotlin-dogglers-app/app/build/outputs/androidTest-results/connected/Pixel_4_API_33(AVD) - 13/meminfo"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.cpuinfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "/home/nicolehwang/android-basics-kotlin-dogglers-app/app/build/outputs/androidTest-results/connected/Pixel_4_API_33(AVD) - 13/cpuinfo"
+    }
+  }
+}
+test_result {
+  test_case {
+    test_class: "VerticalListTests"
+    test_package: "com.example.dogglers"
+    test_method: "vertical_scroll_content_at_last_position"
+    start_time {
+      seconds: 1659664240
+      nanos: 586000000
+    }
+    end_time {
+      seconds: 1659664241
+      nanos: 266000000
+    }
+  }
+  test_status: PASSED
+  output_artifact {
+    label {
+      label: "logcat"
+      namespace: "android"
+    }
+    source_path {
+      path: "/home/nicolehwang/android-basics-kotlin-dogglers-app/app/build/outputs/androidTest-results/connected/Pixel_4_API_33(AVD) - 13/logcat-com.example.dogglers.VerticalListTests-vertical_scroll_content_at_last_position.txt"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info"
+      namespace: "android"
+    }
+    source_path {
+      path: "/home/nicolehwang/android-basics-kotlin-dogglers-app/app/build/outputs/androidTest-results/connected/Pixel_4_API_33(AVD) - 13/device-info.pb"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.meminfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "/home/nicolehwang/android-basics-kotlin-dogglers-app/app/build/outputs/androidTest-results/connected/Pixel_4_API_33(AVD) - 13/meminfo"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.cpuinfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "/home/nicolehwang/android-basics-kotlin-dogglers-app/app/build/outputs/androidTest-results/connected/Pixel_4_API_33(AVD) - 13/cpuinfo"
+    }
+  }
+}
+test_result {
+  test_case {
+    test_class: "VerticalListTests"
+    test_package: "com.example.dogglers"
+    test_method: "vertical_scrolling"
+    start_time {
+      seconds: 1659664241
+      nanos: 720000000
+    }
+    end_time {
+      seconds: 1659664242
+      nanos: 327000000
+    }
+  }
+  test_status: PASSED
+  output_artifact {
+    label {
+      label: "logcat"
+      namespace: "android"
+    }
+    source_path {
+      path: "/home/nicolehwang/android-basics-kotlin-dogglers-app/app/build/outputs/androidTest-results/connected/Pixel_4_API_33(AVD) - 13/logcat-com.example.dogglers.VerticalListTests-vertical_scrolling.txt"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info"
+      namespace: "android"
+    }
+    source_path {
+      path: "/home/nicolehwang/android-basics-kotlin-dogglers-app/app/build/outputs/androidTest-results/connected/Pixel_4_API_33(AVD) - 13/device-info.pb"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.meminfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "/home/nicolehwang/android-basics-kotlin-dogglers-app/app/build/outputs/androidTest-results/connected/Pixel_4_API_33(AVD) - 13/meminfo"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.cpuinfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "/home/nicolehwang/android-basics-kotlin-dogglers-app/app/build/outputs/androidTest-results/connected/Pixel_4_API_33(AVD) - 13/cpuinfo"
+    }
+  }
+}
+test_result {
+  test_case {
+    test_class: "VerticalListTests"
+    test_package: "com.example.dogglers"
+    test_method: "vertical_scroll_content_at_first_position"
+    start_time {
+      seconds: 1659664242
+      nanos: 731000000
+    }
+    end_time {
+      seconds: 1659664243
+      nanos: 535000000
+    }
+  }
+  test_status: PASSED
+  output_artifact {
+    label {
+      label: "logcat"
+      namespace: "android"
+    }
+    source_path {
+      path: "/home/nicolehwang/android-basics-kotlin-dogglers-app/app/build/outputs/androidTest-results/connected/Pixel_4_API_33(AVD) - 13/logcat-com.example.dogglers.VerticalListTests-vertical_scroll_content_at_first_position.txt"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info"
+      namespace: "android"
+    }
+    source_path {
+      path: "/home/nicolehwang/android-basics-kotlin-dogglers-app/app/build/outputs/androidTest-results/connected/Pixel_4_API_33(AVD) - 13/device-info.pb"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.meminfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "/home/nicolehwang/android-basics-kotlin-dogglers-app/app/build/outputs/androidTest-results/connected/Pixel_4_API_33(AVD) - 13/meminfo"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.cpuinfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "/home/nicolehwang/android-basics-kotlin-dogglers-app/app/build/outputs/androidTest-results/connected/Pixel_4_API_33(AVD) - 13/cpuinfo"
+    }
+  }
+}
+output_artifact {
+  label {
+    label: "test-results.log"
+    namespace: "com.google.testing.platform.runtime.android.driver.AndroidInstrumentationDriver"
+  }
+  source_path {
+    path: "/home/nicolehwang/android-basics-kotlin-dogglers-app/app/build/outputs/androidTest-results/connected/Pixel_4_API_33(AVD) - 13/testlog/test-results.log"
+  }
+  type: TEST_DATA
+  mime_type: "text/plain"
+}

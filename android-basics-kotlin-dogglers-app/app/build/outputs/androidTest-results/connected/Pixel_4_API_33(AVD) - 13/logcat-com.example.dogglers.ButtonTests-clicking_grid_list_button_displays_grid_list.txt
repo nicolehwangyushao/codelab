@@ -1,0 +1,221 @@
+08-05 10:50:12.217  6296  6317 I TestRunner: started: clicking_grid_list_button_displays_grid_list(com.example.dogglers.ButtonTests)
+08-05 10:50:12.217   402   402 W RanchuHwc: presentDisplay display has no layers to compose, flushing client target buffer.
+08-05 10:50:12.229   402   402 W RanchuHwc: presentDisplay display has no layers to compose, flushing client target buffer.
+08-05 10:50:12.230  6296  6317 W Settings: Setting always_finish_activities has moved from android.provider.Settings.System to android.provider.Settings.Global, returning read-only value.
+08-05 10:50:12.245   402   402 W RanchuHwc: presentDisplay display has no layers to compose, flushing client target buffer.
+08-05 10:50:12.261   402   402 W RanchuHwc: presentDisplay display has no layers to compose, flushing client target buffer.
+08-05 10:50:12.262  6296  6296 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@f42c84c in: PRE_ON_CREATE
+08-05 10:50:12.263  6296  6296 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.dogglers/.MainActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity (has extras) }, activity=androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@f42c84c
+08-05 10:50:12.270  6296  6296 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@f42c84c in: CREATED
+08-05 10:50:12.271  6296  6296 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.dogglers/.MainActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity (has extras) }, activity=androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@f42c84c
+08-05 10:50:12.272  6296  6296 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@f42c84c in: STARTED
+08-05 10:50:12.273  6296  6296 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.dogglers/.MainActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity (has extras) }, activity=androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@f42c84c
+08-05 10:50:12.278   402   402 W RanchuHwc: presentDisplay display has no layers to compose, flushing client target buffer.
+08-05 10:50:12.283  6296  6296 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@f42c84c in: RESUMED
+08-05 10:50:12.284  6296  6296 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.dogglers/.MainActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity (has extras) }, activity=androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@f42c84c
+08-05 10:50:12.290  6296  6296 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@f42c84c in: PAUSED
+08-05 10:50:12.290  6296  6296 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.dogglers/.MainActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity (has extras) }, activity=androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@f42c84c
+08-05 10:50:12.299   402   402 W RanchuHwc: presentDisplay display has no layers to compose, flushing client target buffer.
+08-05 10:50:12.306  6296  6296 D LifecycleMonitor: Lifecycle status change: com.example.dogglers.MainActivity@d739002 in: PRE_ON_CREATE
+08-05 10:50:12.308  6296  6296 V ActivityScenario: Activity lifecycle changed event received but ignored because the reported transition was not ON_CREATE while the last known transition was PRE_ON_CREATE
+08-05 10:50:12.311   402   402 W RanchuHwc: presentDisplay display has no layers to compose, flushing client target buffer.
+08-05 10:50:12.329   402   402 W RanchuHwc: presentDisplay display has no layers to compose, flushing client target buffer.
+08-05 10:50:12.348  6296  6296 D LifecycleMonitor: Lifecycle status change: com.example.dogglers.MainActivity@d739002 in: CREATED
+08-05 10:50:12.348   397   397 D goldfish-address-space: claimShared: Ask to claim region [0x3ed2ca000 0x3edc2f000]
+08-05 10:50:12.349   402   402 W RanchuHwc: presentDisplay display has no layers to compose, flushing client target buffer.
+08-05 10:50:12.350  6296  6296 V ActivityScenario: Update currentActivityStage to CREATED, currentActivity=com.example.dogglers.MainActivity@d739002
+08-05 10:50:12.353  6296  6296 D LifecycleMonitor: Lifecycle status change: com.example.dogglers.MainActivity@d739002 in: STARTED
+08-05 10:50:12.353  6296  6296 V ActivityScenario: Update currentActivityStage to STARTED, currentActivity=com.example.dogglers.MainActivity@d739002
+08-05 10:50:12.356  6296  6296 D LifecycleMonitor: Lifecycle status change: com.example.dogglers.MainActivity@d739002 in: RESUMED
+08-05 10:50:12.356  6296  6296 V ActivityScenario: Update currentActivityStage to RESUMED, currentActivity=com.example.dogglers.MainActivity@d739002
+08-05 10:50:12.357  1336  1336 I GsaVoiceInteractionSrv: Handling ACTION_STOP_HOTWORD
+08-05 10:50:12.360  1336  1753 E HwDetectorWithState: a: 3
+08-05 10:50:12.367   402   402 W RanchuHwc: presentDisplay display has no layers to compose, flushing client target buffer.
+08-05 10:50:12.368   397   397 D goldfish-address-space: claimShared: Ask to claim region [0x3ee232000 0x3eeb97000]
+08-05 10:50:12.370  6296  6296 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@f42c84c in: STOPPED
+08-05 10:50:12.370  6296  6296 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.dogglers/.MainActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity (has extras) }, activity=androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@f42c84c
+08-05 10:50:12.378   397   397 D goldfish-address-space: claimShared: Ask to claim region [0x3f12ca000 0x3f1c2f000]
+08-05 10:50:12.379   402   402 W RanchuHwc: presentDisplay display has no layers to compose, flushing client target buffer.
+08-05 10:50:12.395   788   949 W Parcel  : Expecting binder but got null!
+08-05 10:50:12.403   397   397 D goldfish-address-space: claimShared: Ask to claim region [0x3f1c2f000 0x3f2594000]
+08-05 10:50:12.405   402   402 W RanchuHwc: presentDisplay display has no layers to compose, flushing client target buffer.
+08-05 10:50:12.406   397   397 D goldfish-address-space: claimShared: Ask to claim region [0x3f2594000 0x3f2ef9000]
+08-05 10:50:12.413   397   397 D goldfish-address-space: claimShared: Ask to claim region [0x3f4965000 0x3f52ca000]
+08-05 10:50:12.416   402   402 W RanchuHwc: presentDisplay display has no layers to compose, flushing client target buffer.
+08-05 10:50:12.430   402   402 W RanchuHwc: presentDisplay display has no layers to compose, flushing client target buffer.
+08-05 10:50:12.431  6296  6319 W Parcel  : Expecting binder but got null!
+08-05 10:50:12.435   598   623 W ziparchive: Unable to open '/data/app/~~N5HgUPdAqmyeEzVPPuxkkQ==/com.example.dogglers-mWtP4G6-bAoNQ-wX51npqA==/base.dm': No such file or directory
+08-05 10:50:12.437   598   623 I ActivityTaskManager: Displayed com.example.dogglers/.MainActivity: +198ms
+08-05 10:50:12.445   402   402 W RanchuHwc: presentDisplay display has no layers to compose, flushing client target buffer.
+08-05 10:50:12.463   402   402 W RanchuHwc: presentDisplay display has no layers to compose, flushing client target buffer.
+08-05 10:50:12.470  6296  6296 D RootViewPicker: Root not ready - waiting: 10ms for one to appear.
+08-05 10:50:12.479   402   402 W RanchuHwc: presentDisplay display has no layers to compose, flushing client target buffer.
+08-05 10:50:12.504   402   402 W RanchuHwc: presentDisplay display has no layers to compose, flushing client target buffer.
+08-05 10:50:12.510  1263  1263 I GoogleInputMethodService: GoogleInputMethodService.onFinishInput():3204
+08-05 10:50:12.511  1263  1263 I GoogleInputMethodService: GoogleInputMethodService.updateDeviceLockedStatus():2100 checkRepeatedly = false, unlocked = true
+08-05 10:50:12.511  1263  1263 I GoogleInputMethodService: GoogleInputMethodService.onStartInput():1903 onStartInput(EditorInfo{inputType=0x0(NULL) imeOptions=0x0 privateImeOptions=null actionName=UNSPECIFIED actionLabel=null actionId=0 initialSelStart=-1 initialSelEnd=-1 initialCapsMode=0x0 hintText=null label=null packageName=com.example.dogglers fieldId=-1 fieldName=null extras=null}, false)
+08-05 10:50:12.512  1263  1263 I GoogleInputMethodService: GoogleInputMethodService.updateDeviceLockedStatus():2100 checkRepeatedly = true, unlocked = true
+08-05 10:50:12.515   402   402 W RanchuHwc: presentDisplay display has no layers to compose, flushing client target buffer.
+08-05 10:50:12.529   402   402 W RanchuHwc: presentDisplay display has no layers to compose, flushing client target buffer.
+08-05 10:50:12.533  6296  6296 I ViewInteraction: Performing 'single click' action on view view.getId() is <2131230936/com.example.dogglers:id/grid_btn>
+08-05 10:50:12.546   402   402 W RanchuHwc: presentDisplay display has no layers to compose, flushing client target buffer.
+08-05 10:50:12.563   402   402 W RanchuHwc: presentDisplay display has no layers to compose, flushing client target buffer.
+08-05 10:50:12.582   402   402 W RanchuHwc: presentDisplay display has no layers to compose, flushing client target buffer.
+08-05 10:50:12.610   402   402 W RanchuHwc: presentDisplay display has no layers to compose, flushing client target buffer.
+08-05 10:50:12.612   380   570 E android.hardware.audio@7.0-impl.ranchu: device/generic/goldfish/audio/stream_out.cpp:updateSourceMetadata:378 failure: Result::NOT_SUPPORTED
+08-05 10:50:12.624   402   402 W RanchuHwc: presentDisplay display has no layers to compose, flushing client target buffer.
+08-05 10:50:12.631  6296  6296 D LifecycleMonitor: Lifecycle status change: com.example.dogglers.MainActivity@d739002 in: PAUSED
+08-05 10:50:12.631  6296  6296 V ActivityScenario: Update currentActivityStage to PAUSED, currentActivity=com.example.dogglers.MainActivity@d739002
+08-05 10:50:12.636   402   402 W RanchuHwc: presentDisplay display has no layers to compose, flushing client target buffer.
+08-05 10:50:12.650   402   402 W RanchuHwc: presentDisplay display has no layers to compose, flushing client target buffer.
+08-05 10:50:12.657  6296  6296 D LifecycleMonitor: Lifecycle status change: com.example.dogglers.GridListActivity@fa91834 in: PRE_ON_CREATE
+08-05 10:50:12.658  6296  6296 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.dogglers/.MainActivity }, activity.getIntent()=Intent { cmp=com.example.dogglers/.GridListActivity }, activity=com.example.dogglers.GridListActivity@fa91834
+08-05 10:50:12.665   402   402 W RanchuHwc: presentDisplay display has no layers to compose, flushing client target buffer.
+08-05 10:50:12.681   402   402 W RanchuHwc: presentDisplay display has no layers to compose, flushing client target buffer.
+08-05 10:50:12.690  6296  6296 D LifecycleMonitor: Lifecycle status change: com.example.dogglers.GridListActivity@fa91834 in: CREATED
+08-05 10:50:12.690  6296  6296 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.dogglers/.MainActivity }, activity.getIntent()=Intent { cmp=com.example.dogglers/.GridListActivity }, activity=com.example.dogglers.GridListActivity@fa91834
+08-05 10:50:12.693  6296  6296 D LifecycleMonitor: Lifecycle status change: com.example.dogglers.GridListActivity@fa91834 in: STARTED
+08-05 10:50:12.693  6296  6296 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.dogglers/.MainActivity }, activity.getIntent()=Intent { cmp=com.example.dogglers/.GridListActivity }, activity=com.example.dogglers.GridListActivity@fa91834
+08-05 10:50:12.694  6296  6296 D LifecycleMonitor: Lifecycle status change: com.example.dogglers.GridListActivity@fa91834 in: RESUMED
+08-05 10:50:12.695  6296  6296 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.dogglers/.MainActivity }, activity.getIntent()=Intent { cmp=com.example.dogglers/.GridListActivity }, activity=com.example.dogglers.GridListActivity@fa91834
+08-05 10:50:12.702   402   402 W RanchuHwc: presentDisplay display has no layers to compose, flushing client target buffer.
+08-05 10:50:12.717   402   402 W RanchuHwc: presentDisplay display has no layers to compose, flushing client target buffer.
+08-05 10:50:12.723   397   397 D goldfish-address-space: claimShared: Ask to claim region [0x3f52ca000 0x3f5c2f000]
+08-05 10:50:12.728   402   402 W RanchuHwc: presentDisplay display has no layers to compose, flushing client target buffer.
+08-05 10:50:12.734   397   397 D goldfish-address-space: claimShared: Ask to claim region [0x3f5c2f000 0x3f6594000]
+08-05 10:50:12.756   402   402 W RanchuHwc: presentDisplay display has no layers to compose, flushing client target buffer.
+08-05 10:50:12.758   397   397 D goldfish-address-space: claimShared: Ask to claim region [0x3f6594000 0x3f6ef9000]
+08-05 10:50:12.772   402   402 W RanchuHwc: presentDisplay display has no layers to compose, flushing client target buffer.
+08-05 10:50:12.783   402   402 W RanchuHwc: presentDisplay display has no layers to compose, flushing client target buffer.
+08-05 10:50:12.789   598  1930 W InputManager-JNI: Input channel object 'fbd382c Splash Screen com.example.dogglers (client)' was disposed without first being removed with the input manager!
+08-05 10:50:12.796   402   402 W RanchuHwc: presentDisplay display has no layers to compose, flushing client target buffer.
+08-05 10:50:12.810   380   570 E android.hardware.audio@7.0-impl.ranchu: device/generic/goldfish/audio/stream_out.cpp:updateSourceMetadata:378 failure: Result::NOT_SUPPORTED
+08-05 10:50:12.811   402   402 W RanchuHwc: presentDisplay display has no layers to compose, flushing client target buffer.
+08-05 10:50:12.826  6296  6304 I xample.dogglers: Compiler allocated 4160KB to compile void android.widget.TextView.<init>(android.content.Context, android.util.AttributeSet, int, int)
+08-05 10:50:12.828   402   402 W RanchuHwc: presentDisplay display has no layers to compose, flushing client target buffer.
+08-05 10:50:12.845   402   402 W RanchuHwc: presentDisplay display has no layers to compose, flushing client target buffer.
+08-05 10:50:12.866   402   402 W RanchuHwc: presentDisplay display has no layers to compose, flushing client target buffer.
+08-05 10:50:12.878   402   402 W RanchuHwc: presentDisplay display has no layers to compose, flushing client target buffer.
+08-05 10:50:12.896   402   402 W RanchuHwc: presentDisplay display has no layers to compose, flushing client target buffer.
+08-05 10:50:12.911   402   402 W RanchuHwc: presentDisplay display has no layers to compose, flushing client target buffer.
+08-05 10:50:12.932   402   402 W RanchuHwc: presentDisplay display has no layers to compose, flushing client target buffer.
+08-05 10:50:12.944   402   402 W RanchuHwc: presentDisplay display has no layers to compose, flushing client target buffer.
+08-05 10:50:12.954  6296  6319 W Parcel  : Expecting binder but got null!
+08-05 10:50:12.962   402   402 W RanchuHwc: presentDisplay display has no layers to compose, flushing client target buffer.
+08-05 10:50:12.963   598   623 I ActivityTaskManager: Displayed com.example.dogglers/.GridListActivity: +372ms
+08-05 10:50:12.979   402   402 W RanchuHwc: presentDisplay display has no layers to compose, flushing client target buffer.
+08-05 10:50:12.981   397   397 D goldfish-address-space: claimShared: Ask to claim region [0x3efff5000 0x3efff8000]
+08-05 10:50:12.999   397   438 D goldfish-address-space: claimShared: Ask to claim region [0x3efff8000 0x3efffb000]
+08-05 10:50:13.004   402   402 W RanchuHwc: presentDisplay display has no layers to compose, flushing client target buffer.
+08-05 10:50:13.021   402   402 W RanchuHwc: presentDisplay display has no layers to compose, flushing client target buffer.
+08-05 10:50:13.028   402   402 W RanchuHwc: presentDisplay display has no layers to compose, flushing client target buffer.
+08-05 10:50:13.046   402   402 W RanchuHwc: presentDisplay display has no layers to compose, flushing client target buffer.
+08-05 10:50:13.063   402   402 W RanchuHwc: presentDisplay display has no layers to compose, flushing client target buffer.
+08-05 10:50:13.079   402   402 W RanchuHwc: presentDisplay display has no layers to compose, flushing client target buffer.
+08-05 10:50:13.095   402   402 W RanchuHwc: presentDisplay display has no layers to compose, flushing client target buffer.
+08-05 10:50:13.101  1263  1263 I GoogleInputMethodService: GoogleInputMethodService.onFinishInput():3204
+08-05 10:50:13.102  1263  1263 I GoogleInputMethodService: GoogleInputMethodService.updateDeviceLockedStatus():2100 checkRepeatedly = false, unlocked = true
+08-05 10:50:13.102  1263  1263 I GoogleInputMethodService: GoogleInputMethodService.onStartInput():1903 onStartInput(EditorInfo{inputType=0x0(NULL) imeOptions=0x0 privateImeOptions=null actionName=UNSPECIFIED actionLabel=null actionId=0 initialSelStart=-1 initialSelEnd=-1 initialCapsMode=0x0 hintText=null label=null packageName=com.example.dogglers fieldId=-1 fieldName=null extras=null}, false)
+08-05 10:50:13.104  1263  1263 I GoogleInputMethodService: GoogleInputMethodService.updateDeviceLockedStatus():2100 checkRepeatedly = true, unlocked = true
+08-05 10:50:13.112   402   402 W RanchuHwc: presentDisplay display has no layers to compose, flushing client target buffer.
+08-05 10:50:13.128   402   402 W RanchuHwc: presentDisplay display has no layers to compose, flushing client target buffer.
+08-05 10:50:13.137   788   949 D EGL_emulation: app_time_stats: avg=21.21ms min=1.32ms max=78.02ms count=41
+08-05 10:50:13.148   402   402 W RanchuHwc: presentDisplay display has no layers to compose, flushing client target buffer.
+08-05 10:50:13.163   402   402 W RanchuHwc: presentDisplay display has no layers to compose, flushing client target buffer.
+08-05 10:50:13.179   402   402 W RanchuHwc: presentDisplay display has no layers to compose, flushing client target buffer.
+08-05 10:50:13.194   402   402 W RanchuHwc: presentDisplay display has no layers to compose, flushing client target buffer.
+08-05 10:50:13.211   402   402 W RanchuHwc: presentDisplay display has no layers to compose, flushing client target buffer.
+08-05 10:50:13.228   402   402 W RanchuHwc: presentDisplay display has no layers to compose, flushing client target buffer.
+08-05 10:50:13.244   402   402 W RanchuHwc: presentDisplay display has no layers to compose, flushing client target buffer.
+08-05 10:50:13.261   402   402 W RanchuHwc: presentDisplay display has no layers to compose, flushing client target buffer.
+08-05 10:50:13.278   402   402 W RanchuHwc: presentDisplay display has no layers to compose, flushing client target buffer.
+08-05 10:50:13.294   402   402 W RanchuHwc: presentDisplay display has no layers to compose, flushing client target buffer.
+08-05 10:50:13.298  6296  6296 I ViewInteraction: Checking 'MatchesViewAssertion{viewMatcher=(view has effective visibility <VISIBLE> and view.getGlobalVisibleRect() to return non-empty rectangle)}' assertion on view view.getId() is <2131230937/com.example.dogglers:id/grid_recycler_view>
+08-05 10:50:13.306  6296  6296 D LifecycleMonitor: Lifecycle status change: com.example.dogglers.GridListActivity@fa91834 in: PAUSED
+08-05 10:50:13.306  6296  6296 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.dogglers/.MainActivity }, activity.getIntent()=Intent { cmp=com.example.dogglers/.GridListActivity }, activity=com.example.dogglers.GridListActivity@fa91834
+08-05 10:50:13.311   402   402 W RanchuHwc: presentDisplay display has no layers to compose, flushing client target buffer.
+08-05 10:50:13.315  6296  6296 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@e9410aa in: PRE_ON_CREATE
+08-05 10:50:13.316  6296  6296 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.dogglers/.MainActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10000000 cmp=com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity }, activity=androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@e9410aa
+08-05 10:50:13.324  6296  6296 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@e9410aa in: CREATED
+08-05 10:50:13.325  6296  6296 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.dogglers/.MainActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10000000 cmp=com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity }, activity=androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@e9410aa
+08-05 10:50:13.326  6296  6296 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@e9410aa in: STARTED
+08-05 10:50:13.326  6296  6296 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.dogglers/.MainActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10000000 cmp=com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity }, activity=androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@e9410aa
+08-05 10:50:13.328  6296  6296 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@e9410aa in: RESUMED
+08-05 10:50:13.328   402   402 W RanchuHwc: presentDisplay display has no layers to compose, flushing client target buffer.
+08-05 10:50:13.328  6296  6296 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.dogglers/.MainActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10000000 cmp=com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity }, activity=androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@e9410aa
+08-05 10:50:13.344   402   402 W RanchuHwc: presentDisplay display has no layers to compose, flushing client target buffer.
+08-05 10:50:13.353   397   438 D goldfish-address-space: claimShared: Ask to claim region [0x3ee232000 0x3eeb97000]
+08-05 10:50:13.355   397   438 D goldfish-address-space: claimShared: Ask to claim region [0x3ec000000 0x3ec965000]
+08-05 10:50:13.357   397   438 D goldfish-address-space: claimShared: Ask to claim region [0x3ec965000 0x3ed2ca000]
+08-05 10:50:13.359  6296  6319 W Parcel  : Expecting binder but got null!
+08-05 10:50:13.361   402   402 W RanchuHwc: presentDisplay display has no layers to compose, flushing client target buffer.
+08-05 10:50:13.363   598   623 I ActivityTaskManager: Displayed com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity: +60ms
+08-05 10:50:13.379   402   402 W RanchuHwc: presentDisplay display has no layers to compose, flushing client target buffer.
+08-05 10:50:13.401   402   402 W RanchuHwc: presentDisplay display has no layers to compose, flushing client target buffer.
+08-05 10:50:13.417   402   402 W RanchuHwc: presentDisplay display has no layers to compose, flushing client target buffer.
+08-05 10:50:13.418  6296  6296 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@e9410aa in: PAUSED
+08-05 10:50:13.418  6296  6296 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.dogglers/.MainActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10000000 cmp=com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity }, activity=androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@e9410aa
+08-05 10:50:13.424  6296  6296 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@f42c84c in: DESTROYED
+08-05 10:50:13.424  6296  6296 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.dogglers/.MainActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity (has extras) }, activity=androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@f42c84c
+08-05 10:50:13.436   402   402 W RanchuHwc: presentDisplay display has no layers to compose, flushing client target buffer.
+08-05 10:50:13.437  1263  1263 I GoogleInputMethodService: GoogleInputMethodService.onFinishInput():3204
+08-05 10:50:13.438  1263  1263 I GoogleInputMethodService: GoogleInputMethodService.updateDeviceLockedStatus():2100 checkRepeatedly = false, unlocked = true
+08-05 10:50:13.438  1263  1263 I GoogleInputMethodService: GoogleInputMethodService.onStartInput():1903 onStartInput(EditorInfo{inputType=0x0(NULL) imeOptions=0x0 privateImeOptions=null actionName=UNSPECIFIED actionLabel=null actionId=0 initialSelStart=-1 initialSelEnd=-1 initialCapsMode=0x0 hintText=null label=null packageName=com.example.dogglers fieldId=-1 fieldName=null extras=null}, false)
+08-05 10:50:13.438  1263  1263 I GoogleInputMethodService: GoogleInputMethodService.updateDeviceLockedStatus():2100 checkRepeatedly = true, unlocked = true
+08-05 10:50:13.455   402   402 W RanchuHwc: presentDisplay display has no layers to compose, flushing client target buffer.
+08-05 10:50:13.461   402   402 W RanchuHwc: presentDisplay display has no layers to compose, flushing client target buffer.
+08-05 10:50:13.472  6296  6296 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@d19c66f in: PRE_ON_CREATE
+08-05 10:50:13.473  6296  6296 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.dogglers/.MainActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10000000 cmp=com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity }, activity=androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@d19c66f
+08-05 10:50:13.478   402   402 W RanchuHwc: presentDisplay display has no layers to compose, flushing client target buffer.
+08-05 10:50:13.482  6296  6296 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@d19c66f in: CREATED
+08-05 10:50:13.483  6296  6296 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.dogglers/.MainActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10000000 cmp=com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity }, activity=androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@d19c66f
+08-05 10:50:13.484  6296  6296 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@d19c66f in: STARTED
+08-05 10:50:13.484  6296  6296 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.dogglers/.MainActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10000000 cmp=com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity }, activity=androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@d19c66f
+08-05 10:50:13.486  6296  6296 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@d19c66f in: RESUMED
+08-05 10:50:13.486  6296  6296 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.dogglers/.MainActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10000000 cmp=com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity }, activity=androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@d19c66f
+08-05 10:50:13.494   402   402 W RanchuHwc: presentDisplay display has no layers to compose, flushing client target buffer.
+08-05 10:50:13.500   397   438 D goldfish-address-space: claimShared: Ask to claim region [0x3ed2ca000 0x3edc2f000]
+08-05 10:50:13.501   397   438 D goldfish-address-space: claimShared: Ask to claim region [0x3f34fc000 0x3f3e61000]
+08-05 10:50:13.507   397   438 D goldfish-address-space: claimShared: Ask to claim region [0x3f0965000 0x3f12ca000]
+08-05 10:50:13.525  6296  6319 W Parcel  : Expecting binder but got null!
+08-05 10:50:13.525   402   402 W RanchuHwc: presentDisplay display has no layers to compose, flushing client target buffer.
+08-05 10:50:13.530   402   402 W RanchuHwc: presentDisplay display has no layers to compose, flushing client target buffer.
+08-05 10:50:13.538   598   623 I ActivityTaskManager: Displayed com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity: +165ms
+08-05 10:50:13.546   402   402 W RanchuHwc: presentDisplay display has no layers to compose, flushing client target buffer.
+08-05 10:50:13.577  6296  6296 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@e9410aa in: STOPPED
+08-05 10:50:13.577  6296  6296 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.dogglers/.MainActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10000000 cmp=com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity }, activity=androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@e9410aa
+08-05 10:50:13.579  6296  6296 D LifecycleMonitor: Lifecycle status change: com.example.dogglers.GridListActivity@fa91834 in: STOPPED
+08-05 10:50:13.579  6296  6296 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.dogglers/.MainActivity }, activity.getIntent()=Intent { cmp=com.example.dogglers/.GridListActivity }, activity=com.example.dogglers.GridListActivity@fa91834
+08-05 10:50:13.580   402   402 W RanchuHwc: presentDisplay display has no layers to compose, flushing client target buffer.
+08-05 10:50:13.586   402   402 W RanchuHwc: presentDisplay display has no layers to compose, flushing client target buffer.
+08-05 10:50:13.587  6296  6296 D LifecycleMonitor: Lifecycle status change: com.example.dogglers.MainActivity@d739002 in: STOPPED
+08-05 10:50:13.587  6296  6296 V ActivityScenario: Update currentActivityStage to STOPPED, currentActivity=com.example.dogglers.MainActivity@d739002
+08-05 10:50:13.589  6296  6296 D LifecycleMonitor: Lifecycle status change: com.example.dogglers.MainActivity@d739002 in: DESTROYED
+08-05 10:50:13.589  6296  6296 V ActivityScenario: Update currentActivityStage to DESTROYED, currentActivity=null
+08-05 10:50:13.591   598  1663 W InputManager-JNI: Input channel object 'bf8c5a9 com.example.dogglers/com.example.dogglers.MainActivity (client)' was disposed without first being removed with the input manager!
+08-05 10:50:13.595   402   402 W RanchuHwc: presentDisplay display has no layers to compose, flushing client target buffer.
+08-05 10:50:13.598  1263  1263 I GoogleInputMethodService: GoogleInputMethodService.onFinishInput():3204
+08-05 10:50:13.599  1263  1263 I GoogleInputMethodService: GoogleInputMethodService.updateDeviceLockedStatus():2100 checkRepeatedly = false, unlocked = true
+08-05 10:50:13.599  1263  1263 I GoogleInputMethodService: GoogleInputMethodService.onStartInput():1903 onStartInput(EditorInfo{inputType=0x0(NULL) imeOptions=0x0 privateImeOptions=null actionName=UNSPECIFIED actionLabel=null actionId=0 initialSelStart=-1 initialSelEnd=-1 initialCapsMode=0x0 hintText=null label=null packageName=com.example.dogglers fieldId=-1 fieldName=null extras=null}, false)
+08-05 10:50:13.599  1263  1263 I GoogleInputMethodService: GoogleInputMethodService.updateDeviceLockedStatus():2100 checkRepeatedly = true, unlocked = true
+08-05 10:50:13.609   397   438 D goldfish-address-space: claimShared: Ask to claim region [0x3ec000000 0x3ec603000]
+08-05 10:50:13.618   402   402 W RanchuHwc: presentDisplay display has no layers to compose, flushing client target buffer.
+08-05 10:50:13.628   402   402 W RanchuHwc: presentDisplay display has no layers to compose, flushing client target buffer.
+08-05 10:50:13.633  6296  6296 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@e9410aa in: DESTROYED
+08-05 10:50:13.633  6296  6296 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.dogglers/.MainActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10000000 cmp=com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity }, activity=androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@e9410aa
+08-05 10:50:13.634   598  1939 W InputManager-JNI: Input channel object 'c59b177 com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity (client)' was disposed without first being removed with the input manager!
+08-05 10:50:13.638  6296  6296 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@d19c66f in: PAUSED
+08-05 10:50:13.638  6296  6296 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.dogglers/.MainActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10000000 cmp=com.example.dogglers/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity }, activity=androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@d19c66f
+08-05 10:50:13.645   402   402 W RanchuHwc: presentDisplay display has no layers to compose, flushing client target buffer.
+08-05 10:50:13.646  6296  6296 D LifecycleMonitor: Lifecycle status change: com.example.dogglers.GridListActivity@fa91834 in: RESTARTED
+08-05 10:50:13.646  6296  6296 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.dogglers/.MainActivity }, activity.getIntent()=Intent { cmp=com.example.dogglers/.GridListActivity }, activity=com.example.dogglers.GridListActivity@fa91834
+08-05 10:50:13.647  6296  6296 D LifecycleMonitor: Lifecycle status change: com.example.dogglers.GridListActivity@fa91834 in: STARTED
+08-05 10:50:13.647  6296  6296 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.dogglers/.MainActivity }, activity.getIntent()=Intent { cmp=com.example.dogglers/.GridListActivity }, activity=com.example.dogglers.GridListActivity@fa91834
+08-05 10:50:13.648  6296  6296 D LifecycleMonitor: Lifecycle status change: com.example.dogglers.GridListActivity@fa91834 in: RESUMED
+08-05 10:50:13.648  6296  6296 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.dogglers/.MainActivity }, activity.getIntent()=Intent { cmp=com.example.dogglers/.GridListActivity }, activity=com.example.dogglers.GridListActivity@fa91834
+08-05 10:50:13.660   402   402 W RanchuHwc: presentDisplay display has no layers to compose, flushing client target buffer.
+08-05 10:50:13.666   397   438 D goldfish-address-space: claimShared: Ask to claim region [0x3ee232000 0x3eeb97000]
+08-05 10:50:13.669   397   438 D goldfish-address-space: claimShared: Ask to claim region [0x3ec603000 0x3ecf68000]
+08-05 10:50:13.672   397   438 D goldfish-address-space: claimShared: Ask to claim region [0x3f12ca000 0x3f1c2f000]
+08-05 10:50:13.677   402   402 W RanchuHwc: presentDisplay display has no layers to compose, flushing client target buffer.
+08-05 10:50:13.690  6296  6317 I TestRunner: finished: clicking_grid_list_button_displays_grid_list(com.example.dogglers.ButtonTests)
