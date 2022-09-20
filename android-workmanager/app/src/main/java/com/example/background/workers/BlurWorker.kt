@@ -1,25 +1,29 @@
 package com.example.background.workers
 
+import android.app.ForegroundServiceStartNotAllowedException
 import android.content.Context
 import android.graphics.BitmapFactory
 import android.net.Uri
+import android.os.Build
 import android.text.TextUtils
 import android.util.Log
-import androidx.work.Worker
-import androidx.work.WorkerParameters
-import androidx.work.workDataOf
+import androidx.annotation.RequiresApi
+import androidx.work.*
 import com.example.background.KEY_IMAGE_URI
+import com.google.common.util.concurrent.ListenableFuture
 
 private const val TAG = "BlurWorker"
 
-class BlurWorker(ctx: Context, params: WorkerParameters) : Worker(ctx, params) {
+class BlurWorker(ctx: Context, params: WorkerParameters) : CoroutineWorker(ctx, params) {
 
-    override fun doWork(): Result {
+    @RequiresApi(Build.VERSION_CODES.S)
+    override suspend fun doWork(): Result {
         val appContext = applicationContext
         val resourceUri = inputData.getString(KEY_IMAGE_URI)
-        makeStatusNotification("Blurring image", appContext)
+//        makeStatusNotification("Blurring image", appContext)
         sleep()
         return try {
+            setForeground(getForegroundInfo())
             if (TextUtils.isEmpty(resourceUri)) {
                 Log.e(TAG, "Invalid input uri")
                 throw IllegalArgumentException("Invalid input uri")
@@ -37,10 +41,15 @@ class BlurWorker(ctx: Context, params: WorkerParameters) : Worker(ctx, params) {
             val outputData = workDataOf(KEY_IMAGE_URI to outputUri.toString())
 
             Result.success(outputData)
-        } catch (throwable: Throwable) {
+
+        } catch (e: ForegroundServiceStartNotAllowedException) {
             Log.e(TAG, "Error applying blur")
             Result.failure()
         }
 
+    }
+
+    override suspend fun getForegroundInfo(): ForegroundInfo {
+        return makeStatusNotification("Blurring image", applicationContext)
     }
 }

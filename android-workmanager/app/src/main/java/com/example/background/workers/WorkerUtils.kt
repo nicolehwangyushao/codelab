@@ -32,6 +32,7 @@ import androidx.renderscript.Allocation
 import androidx.renderscript.Element
 import androidx.renderscript.RenderScript
 import androidx.renderscript.ScriptIntrinsicBlur
+import androidx.work.ForegroundInfo
 import com.example.background.CHANNEL_ID
 import com.example.background.DELAY_TIME_MILLIS
 import com.example.background.NOTIFICATION_ID
@@ -57,7 +58,7 @@ private const val TAG = "WorkerUtils"
  * @param message Message shown on the notification
  * @param context Context needed to create Toast
  */
-fun makeStatusNotification(message: String, context: Context) {
+fun makeStatusNotification(message: String, context: Context) : ForegroundInfo {
 
     // Make a channel if necessary
     if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.O) {
@@ -85,7 +86,8 @@ fun makeStatusNotification(message: String, context: Context) {
             .setVibrate(LongArray(0))
 
     // Show the notification
-    NotificationManagerCompat.from(context).notify(NOTIFICATION_ID, builder.build())
+
+    return ForegroundInfo(NOTIFICATION_ID, builder.build())
 }
 
 /**

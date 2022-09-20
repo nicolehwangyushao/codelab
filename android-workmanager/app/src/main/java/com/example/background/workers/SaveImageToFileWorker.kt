@@ -1,24 +1,28 @@
 package com.example.background.workers
 
+import android.app.ForegroundServiceStartNotAllowedException
 import android.content.Context
 import android.graphics.BitmapFactory
 import android.net.Uri
+import android.os.Build
 import android.provider.MediaStore.Images.Media.insertImage
 import android.util.Log
-import androidx.work.Worker
-import androidx.work.WorkerParameters
-import androidx.work.workDataOf
+import androidx.annotation.RequiresApi
+import androidx.work.*
 import com.example.background.KEY_IMAGE_URI
+import com.google.common.util.concurrent.ListenableFuture
 import java.text.SimpleDateFormat
 import java.util.*
 
 private const val TAG = "SaveImageToFileWorker"
 
-class SaveImageToFileWorker(ctx: Context, params: WorkerParameters) : Worker(ctx, params) {
+class SaveImageToFileWorker(ctx: Context, params: WorkerParameters) : CoroutineWorker(ctx, params) {
     private val title = "Blurred Image"
     private val dateFormatter = SimpleDateFormat("yyyy.MM.dd 'at' HH:mm:ss z", Locale.getDefault())
-    override fun doWork(): Result {
-        makeStatusNotification("Saving image", applicationContext)
+    @RequiresApi(Build.VERSION_CODES.S)
+    override suspend fun doWork(): Result {
+//        makeStatusNotification("Saving image", applicationContext)
+        setForeground(getForegroundInfo())
         sleep()
 
         val resolver = applicationContext.contentResolver
@@ -38,9 +42,13 @@ class SaveImageToFileWorker(ctx: Context, params: WorkerParameters) : Worker(ctx
                 Log.e(TAG, "Writing to MediaStore failed")
                 Result.failure()
             }
-        } catch (exception: Exception) {
-            exception.printStackTrace()
+        } catch (e: ForegroundServiceStartNotAllowedException) {
+            Log.e(TAG, "Error applying blur")
             Result.failure()
         }
     }
+    override suspend fun getForegroundInfo(): ForegroundInfo {
+        return makeStatusNotification("Saving image", applicationContext)
+    }
+
 }
