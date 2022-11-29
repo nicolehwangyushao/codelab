@@ -51,4 +51,13 @@ class SaveImageToFileWorker(ctx: Context, params: WorkerParameters) : CoroutineW
         return makeStatusNotification("Saving image", applicationContext)
     }
 
+    fun canAddFish(tankSize: Double, currentFish: List<Int>, fishSize: Int = 2, hasDecorations: Boolean = true) : Boolean {
+        var capacity = tankSize
+        if (hasDecorations) {
+            capacity = capacity * 80/100
+        }
+
+        return currentFish.sum()+fishSize <= capacity
+    }
+
 }
