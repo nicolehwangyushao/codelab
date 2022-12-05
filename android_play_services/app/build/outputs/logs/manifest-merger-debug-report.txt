@@ -1,0 +1,508 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/nicolehwang/examples/lite/examples/object_detection/android_play_services/app/src/main/AndroidManifest.xml:17:1-64:12
+INJECTED from /home/nicolehwang/examples/lite/examples/object_detection/android_play_services/app/src/main/AndroidManifest.xml:17:1-64:12
+INJECTED from /home/nicolehwang/examples/lite/examples/object_detection/android_play_services/app/src/main/AndroidManifest.xml:17:1-64:12
+INJECTED from /home/nicolehwang/examples/lite/examples/object_detection/android_play_services/app/src/main/AndroidManifest.xml:17:1-64:12
+MERGED from [androidx.databinding:databinding-adapters:7.2.2] /home/nicolehwang/.gradle/caches/transforms-3/08970be7d50c64eb0f168b9c18a99a05/transformed/databinding-adapters-7.2.2/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.databinding:databinding-ktx:7.2.2] /home/nicolehwang/.gradle/caches/transforms-3/0174c31be8b72fe16168e60a18e92cb9/transformed/jetified-databinding-ktx-7.2.2/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.databinding:databinding-runtime:7.2.2] /home/nicolehwang/.gradle/caches/transforms-3/ecd33a64cf083f6c699e639d602726cd/transformed/databinding-runtime-7.2.2/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.databinding:viewbinding:7.2.2] /home/nicolehwang/.gradle/caches/transforms-3/953429f752ffb4b4db04bcefd4c671a8/transformed/jetified-viewbinding-7.2.2/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-ui-ktx:2.5.3] /home/nicolehwang/.gradle/caches/transforms-3/49fa8d688412869e179488fb8cf784a6/transformed/navigation-ui-ktx-2.5.3/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-ui:2.5.3] /home/nicolehwang/.gradle/caches/transforms-3/1bbc4e046da2d916cd3e41212823975b/transformed/navigation-ui-2.5.3/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.material:material:1.7.0] /home/nicolehwang/.gradle/caches/transforms-3/f6f95f21b9cd316aff2159160e0c3edf/transformed/material-1.7.0/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /home/nicolehwang/.gradle/caches/transforms-3/a720964091b6bb4aa5441d54a939ec57/transformed/constraintlayout-2.1.4/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.camera:camera-view:1.3.0-alpha01] /home/nicolehwang/.gradle/caches/transforms-3/b86ee9ae8703165a1e08d0238f6cb25e/transformed/jetified-camera-view-1.3.0-alpha01/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.appcompat:appcompat-resources:1.5.1] /home/nicolehwang/.gradle/caches/transforms-3/42b138101727fa8719397f74d7d8dbf5/transformed/jetified-appcompat-resources-1.5.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.appcompat:appcompat:1.5.1] /home/nicolehwang/.gradle/caches/transforms-3/50362e2b860422b7473f05cdd35829b2/transformed/appcompat-1.5.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.camera:camera-camera2:1.3.0-alpha01] /home/nicolehwang/.gradle/caches/transforms-3/dd7578637c0534a162238ddf9fb62fb5/transformed/jetified-camera-camera2-1.3.0-alpha01/AndroidManifest.xml:17:1-36:12
+MERGED from [androidx.camera:camera-lifecycle:1.3.0-alpha01] /home/nicolehwang/.gradle/caches/transforms-3/d41bfe048d92523133da41717bddf725/transformed/jetified-camera-lifecycle-1.3.0-alpha01/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.camera:camera-core:1.3.0-alpha01] /home/nicolehwang/.gradle/caches/transforms-3/89afe9aa7e225c2fda5f86427ae5bda0/transformed/jetified-camera-core-1.3.0-alpha01/AndroidManifest.xml:17:1-36:12
+MERGED from [androidx.navigation:navigation-fragment-ktx:2.5.3] /home/nicolehwang/.gradle/caches/transforms-3/72252ee14a4c0390254a17f9ee24fa8f/transformed/navigation-fragment-ktx-2.5.3/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-fragment:2.5.3] /home/nicolehwang/.gradle/caches/transforms-3/b59f2acf261c8d10986d46eb862fd1c2/transformed/navigation-fragment-2.5.3/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.2.0] /home/nicolehwang/.gradle/caches/transforms-3/175620ada574c8161b84c3baf0e3529a/transformed/slidingpanelayout-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.window:window:1.1.0-alpha04] /home/nicolehwang/.gradle/caches/transforms-3/2ef73baf9437e4f91b1fafea81d3b351/transformed/jetified-window-1.1.0-alpha04/AndroidManifest.xml:17:1-31:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /home/nicolehwang/.gradle/caches/transforms-3/194e973312c41d3ec2174190893c4330/transformed/jetified-viewpager2-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [org.tensorflow:tensorflow-lite-task-vision-play-services:0.4.2] /home/nicolehwang/.gradle/caches/transforms-3/93cab6b4c545b8c55cfcfe7050511d66/transformed/jetified-tensorflow-lite-task-vision-play-services-0.4.2/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-tflite-gpu:16.0.0] /home/nicolehwang/.gradle/caches/transforms-3/5b06a0b21215f100d1dbf7a1a674497f/transformed/jetified-play-services-tflite-gpu-16.0.0/AndroidManifest.xml:2:1-24:12
+MERGED from [com.google.android.gms:play-services-tflite-support:16.0.0] /home/nicolehwang/.gradle/caches/transforms-3/9b689e417406b5bc37bb8a7a129c7333/transformed/jetified-play-services-tflite-support-16.0.0/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-tflite-java:16.0.0] /home/nicolehwang/.gradle/caches/transforms-3/e7b10c3817470080030895fdcd11436d/transformed/jetified-play-services-tflite-java-16.0.0/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-tflite-impl:16.0.0] /home/nicolehwang/.gradle/caches/transforms-3/d7eb5c4d45a5275986f0947930b14d5b/transformed/jetified-play-services-tflite-impl-16.0.0/AndroidManifest.xml:2:1-24:12
+MERGED from [com.google.android.gms:play-services-base:18.1.0] /home/nicolehwang/.gradle/caches/transforms-3/51350e12b8333e4ed4f5227951948fb2/transformed/jetified-play-services-base-18.1.0/AndroidManifest.xml:16:1-24:12
+MERGED from [com.google.android.gms:play-services-tasks:18.0.2] /home/nicolehwang/.gradle/caches/transforms-3/a739931f60acf7b161491af0a4a88c3c/transformed/jetified-play-services-tasks-18.0.2/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-basement:18.1.0] /home/nicolehwang/.gradle/caches/transforms-3/2087bdcc909dd99560995b08d41cdae1/transformed/jetified-play-services-basement-18.1.0/AndroidManifest.xml:16:1-26:12
+MERGED from [androidx.fragment:fragment-ktx:1.5.4] /home/nicolehwang/.gradle/caches/transforms-3/0963132b1feead026105f7ff767088b7/transformed/jetified-fragment-ktx-1.5.4/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.5.4] /home/nicolehwang/.gradle/caches/transforms-3/a527cfac546b1bd05db7229a4d07ee63/transformed/fragment-1.5.4/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.5.3] /home/nicolehwang/.gradle/caches/transforms-3/f5d1841b606f156569c662f18353fb5c/transformed/navigation-runtime-ktx-2.5.3/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-runtime:2.5.3] /home/nicolehwang/.gradle/caches/transforms-3/2b3fc6145bba267766ca8291c7a683d0/transformed/navigation-runtime-2.5.3/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity-ktx:1.5.1] /home/nicolehwang/.gradle/caches/transforms-3/9449d9ea490ddef525723173ffec71af/transformed/jetified-activity-ktx-1.5.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.5.1] /home/nicolehwang/.gradle/caches/transforms-3/0f30596bfa46a3f3bb83588558b95747/transformed/jetified-activity-1.5.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] /home/nicolehwang/.gradle/caches/transforms-3/28545e122c74a9ad2a951b964ef92bf7/transformed/jetified-emoji2-views-helper-1.2.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.emoji2:emoji2:1.2.0] /home/nicolehwang/.gradle/caches/transforms-3/856f222537181133276d0e5b4a7e537a/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /home/nicolehwang/.gradle/caches/transforms-3/497303ab0e4842f04fc4e772ceb53ea1/transformed/drawerlayout-1.1.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /home/nicolehwang/.gradle/caches/transforms-3/2db3605295359f087c80dd64b20c9c11/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /home/nicolehwang/.gradle/caches/transforms-3/926051914d5b1150a6cc461cbbaca007/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/nicolehwang/.gradle/caches/transforms-3/feeba58a2f798daad010e05c6d5e97fe/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/nicolehwang/.gradle/caches/transforms-3/17990b7d7b32f7cbca04273ae48dc8f3/transformed/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/nicolehwang/.gradle/caches/transforms-3/f997e3ec64fb1686e17a333a788fa19b/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /home/nicolehwang/.gradle/caches/transforms-3/5cd06f174f77a398b24761870197f906/transformed/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /home/nicolehwang/.gradle/caches/transforms-3/e969cfb605b74534631f32d72fd4b4c9/transformed/recyclerview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/nicolehwang/.gradle/caches/transforms-3/fed3e2404fb04cdd08875166dd654ef5/transformed/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.1.0] /home/nicolehwang/.gradle/caches/transforms-3/05e608f2955529c0eff0e6fc21556750/transformed/customview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.transition:transition:1.4.1] /home/nicolehwang/.gradle/caches/transforms-3/2e431123611cd87a067fa13dee710114/transformed/transition-1.4.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.9.0] /home/nicolehwang/.gradle/caches/transforms-3/00a20becb1160987f4cf43ef2142de00/transformed/core-1.9.0/AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.navigation:navigation-common-ktx:2.5.3] /home/nicolehwang/.gradle/caches/transforms-3/7860f26a62d5b149a5b30bbe00eb3959/transformed/navigation-common-ktx-2.5.3/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-common:2.5.3] /home/nicolehwang/.gradle/caches/transforms-3/9103f7921be948113f57f2e6b4193601/transformed/navigation-common-2.5.3/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.5.1] /home/nicolehwang/.gradle/caches/transforms-3/6d88b1a9aa973799accd589c4688bfb0/transformed/jetified-lifecycle-viewmodel-ktx-2.5.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.5.1] /home/nicolehwang/.gradle/caches/transforms-3/3853c83dc755d85fddcac05fa3d3c47f/transformed/lifecycle-viewmodel-2.5.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.5.1] /home/nicolehwang/.gradle/caches/transforms-3/51c62d4725d13bff114167a57383b56b/transformed/jetified-lifecycle-viewmodel-savedstate-2.5.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core-ktx:1.9.0] /home/nicolehwang/.gradle/caches/transforms-3/4bdcaa510e94443873cd5d45ea3c6bce/transformed/jetified-core-ktx-1.9.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.5.1] /home/nicolehwang/.gradle/caches/transforms-3/9048c012d3fb74e236fd20edd2039fa4/transformed/jetified-lifecycle-runtime-ktx-2.5.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.1.0] /home/nicolehwang/.gradle/caches/transforms-3/8fac092267cc1367ce953829aeb57968/transformed/localbroadcastmanager-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-service:2.2.0] /home/nicolehwang/.gradle/caches/transforms-3/e4551efe557e42e08e4fc3faf5dd37dc/transformed/jetified-lifecycle-service-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] /home/nicolehwang/.gradle/caches/transforms-3/647a72959fc4d2651b3c2ae7f1ca4b44/transformed/jetified-lifecycle-process-2.4.1/AndroidManifest.xml:17:1-37:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.5.1] /home/nicolehwang/.gradle/caches/transforms-3/581380f5e23a99f062eb86e3866041ff/transformed/lifecycle-runtime-2.5.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/nicolehwang/.gradle/caches/transforms-3/bcaa365595dcc58066460eb5661f9995/transformed/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.0] /home/nicolehwang/.gradle/caches/transforms-3/004b808ce4e5813e28a37509771a1eed/transformed/jetified-savedstate-ktx-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.2.0] /home/nicolehwang/.gradle/caches/transforms-3/a496ae15161c598e7d5d6e7c9d71c52e/transformed/jetified-savedstate-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cardview:cardview:1.0.0] /home/nicolehwang/.gradle/caches/transforms-3/4dc1e7d7785dc210398cf660b38b095b/transformed/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.exifinterface:exifinterface:1.3.2] /home/nicolehwang/.gradle/caches/transforms-3/873262327f411d0323ab08c409aeeca1/transformed/exifinterface-1.3.2/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/nicolehwang/.gradle/caches/transforms-3/8840fdbdf99a843f52eb26a028e1a850/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.2.0] /home/nicolehwang/.gradle/caches/transforms-3/c8e1adf3fb60e17f41dfb32502c86a20/transformed/lifecycle-livedata-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.5.1] /home/nicolehwang/.gradle/caches/transforms-3/60a832ee3206988a42941f600bfa1014/transformed/jetified-lifecycle-livedata-core-ktx-2.5.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.5.1] /home/nicolehwang/.gradle/caches/transforms-3/4052be52c5c73b07ac9b0df17f2a4603/transformed/lifecycle-livedata-core-2.5.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /home/nicolehwang/.gradle/caches/transforms-3/472c36bab11e5c37d9bb63ebc5a982ee/transformed/core-runtime-2.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.startup:startup-runtime:1.1.1] /home/nicolehwang/.gradle/caches/transforms-3/418c2b631ddc7a42b1d449c46b62a1ee/transformed/jetified-startup-runtime-1.1.1/AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.tracing:tracing:1.0.0] /home/nicolehwang/.gradle/caches/transforms-3/1e13dc316aa023794451ddd3ea51fd2b/transformed/jetified-tracing-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/nicolehwang/.gradle/caches/transforms-3/a4f1e45ae106a4351ba7808130a12c34/transformed/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/nicolehwang/.gradle/caches/transforms-3/d07faeacb1c83920216b07b2c58bb7fc/transformed/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /home/nicolehwang/.gradle/caches/transforms-3/95f698a1a76ef02535c5a10273be5414/transformed/print-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] /home/nicolehwang/.gradle/caches/transforms-3/a28e209f61610994a831264bbdf5aabd/transformed/jetified-annotation-experimental-1.3.0/AndroidManifest.xml:17:1-22:12
+MERGED from [org.tensorflow:tensorflow-lite-support-api:0.4.2] /home/nicolehwang/.gradle/caches/transforms-3/261c667893faff729dea0090fd5a80e0/transformed/jetified-tensorflow-lite-support-api-0.4.2/AndroidManifest.xml:2:1-5:12
+MERGED from [com.google.android.odml:image:1.0.0-beta1] /home/nicolehwang/.gradle/caches/transforms-3/b6629dc0382b360d74dcbb155488b862/transformed/jetified-image-1.0.0-beta1/AndroidManifest.xml:2:1-9:12
+MERGED from [org.tensorflow:tensorflow-lite-api:2.10.0] /home/nicolehwang/.gradle/caches/transforms-3/85bf1edae3d22fcc9cb5d23312ed7538/transformed/jetified-tensorflow-lite-api-2.10.0/AndroidManifest.xml:2:1-12:12
+MERGED from [org.tensorflow:tensorflow-lite-task-base:0.4.2] /home/nicolehwang/.gradle/caches/transforms-3/48c6d4f870a3351085f302cec72f4510/transformed/jetified-tensorflow-lite-task-base-0.4.2/AndroidManifest.xml:2:1-6:12
+MERGED from [org.tensorflow:tensorflow-lite-gpu-api:2.10.0] /home/nicolehwang/.gradle/caches/transforms-3/aa7622b9a764561494d43ec0fec68368/transformed/jetified-tensorflow-lite-gpu-api-2.10.0/AndroidManifest.xml:2:1-12:12
+INJECTED from /home/nicolehwang/examples/lite/examples/object_detection/android_play_services/app/src/main/AndroidManifest.xml:17:1-64:12
+INJECTED from /home/nicolehwang/examples/lite/examples/object_detection/android_play_services/app/src/main/AndroidManifest.xml:17:1-64:12
+INJECTED from /home/nicolehwang/examples/lite/examples/object_detection/android_play_services/app/src/main/AndroidManifest.xml:17:1-64:12
+	package
+		ADDED from /home/nicolehwang/examples/lite/examples/object_detection/android_play_services/app/src/main/AndroidManifest.xml:21:5-59
+		INJECTED from /home/nicolehwang/examples/lite/examples/object_detection/android_play_services/app/src/main/AndroidManifest.xml
+		INJECTED from /home/nicolehwang/examples/lite/examples/object_detection/android_play_services/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/nicolehwang/examples/lite/examples/object_detection/android_play_services/app/src/main/AndroidManifest.xml
+		ADDED from /home/nicolehwang/examples/lite/examples/object_detection/android_play_services/app/src/main/AndroidManifest.xml:17:1-64:12
+		INJECTED from /home/nicolehwang/examples/lite/examples/object_detection/android_play_services/app/src/main/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /home/nicolehwang/examples/lite/examples/object_detection/android_play_services/app/src/main/AndroidManifest.xml:20:5-51
+	xmlns:dist
+		ADDED from /home/nicolehwang/examples/lite/examples/object_detection/android_play_services/app/src/main/AndroidManifest.xml:19:5-61
+	android:versionCode
+		INJECTED from /home/nicolehwang/examples/lite/examples/object_detection/android_play_services/app/src/main/AndroidManifest.xml
+		ADDED from /home/nicolehwang/examples/lite/examples/object_detection/android_play_services/app/src/main/AndroidManifest.xml:17:1-64:12
+		INJECTED from /home/nicolehwang/examples/lite/examples/object_detection/android_play_services/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/nicolehwang/examples/lite/examples/object_detection/android_play_services/app/src/main/AndroidManifest.xml:18:5-63
+dist:module
+ADDED from /home/nicolehwang/examples/lite/examples/object_detection/android_play_services/app/src/main/AndroidManifest.xml:24:5-40
+	dist:instant
+		ADDED from /home/nicolehwang/examples/lite/examples/object_detection/android_play_services/app/src/main/AndroidManifest.xml:24:18-37
+uses-feature#android.hardware.camera
+ADDED from /home/nicolehwang/examples/lite/examples/object_detection/android_play_services/app/src/main/AndroidManifest.xml:27:5-60
+	android:name
+		ADDED from /home/nicolehwang/examples/lite/examples/object_detection/android_play_services/app/src/main/AndroidManifest.xml:27:19-57
+uses-permission#android.permission.CAMERA
+ADDED from /home/nicolehwang/examples/lite/examples/object_detection/android_play_services/app/src/main/AndroidManifest.xml:30:5-65
+	android:name
+		ADDED from /home/nicolehwang/examples/lite/examples/object_detection/android_play_services/app/src/main/AndroidManifest.xml:30:22-62
+application
+ADDED from /home/nicolehwang/examples/lite/examples/object_detection/android_play_services/app/src/main/AndroidManifest.xml:32:5-62:19
+MERGED from [com.google.android.material:material:1.7.0] /home/nicolehwang/.gradle/caches/transforms-3/f6f95f21b9cd316aff2159160e0c3edf/transformed/material-1.7.0/AndroidManifest.xml:24:5-20
+MERGED from [com.google.android.material:material:1.7.0] /home/nicolehwang/.gradle/caches/transforms-3/f6f95f21b9cd316aff2159160e0c3edf/transformed/material-1.7.0/AndroidManifest.xml:24:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /home/nicolehwang/.gradle/caches/transforms-3/a720964091b6bb4aa5441d54a939ec57/transformed/constraintlayout-2.1.4/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /home/nicolehwang/.gradle/caches/transforms-3/a720964091b6bb4aa5441d54a939ec57/transformed/constraintlayout-2.1.4/AndroidManifest.xml:9:5-20
+MERGED from [androidx.camera:camera-camera2:1.3.0-alpha01] /home/nicolehwang/.gradle/caches/transforms-3/dd7578637c0534a162238ddf9fb62fb5/transformed/jetified-camera-camera2-1.3.0-alpha01/AndroidManifest.xml:23:5-34:19
+MERGED from [androidx.camera:camera-camera2:1.3.0-alpha01] /home/nicolehwang/.gradle/caches/transforms-3/dd7578637c0534a162238ddf9fb62fb5/transformed/jetified-camera-camera2-1.3.0-alpha01/AndroidManifest.xml:23:5-34:19
+MERGED from [androidx.camera:camera-core:1.3.0-alpha01] /home/nicolehwang/.gradle/caches/transforms-3/89afe9aa7e225c2fda5f86427ae5bda0/transformed/jetified-camera-core-1.3.0-alpha01/AndroidManifest.xml:23:5-34:19
+MERGED from [androidx.camera:camera-core:1.3.0-alpha01] /home/nicolehwang/.gradle/caches/transforms-3/89afe9aa7e225c2fda5f86427ae5bda0/transformed/jetified-camera-core-1.3.0-alpha01/AndroidManifest.xml:23:5-34:19
+MERGED from [androidx.window:window:1.1.0-alpha04] /home/nicolehwang/.gradle/caches/transforms-3/2ef73baf9437e4f91b1fafea81d3b351/transformed/jetified-window-1.1.0-alpha04/AndroidManifest.xml:22:5-29:19
+MERGED from [androidx.window:window:1.1.0-alpha04] /home/nicolehwang/.gradle/caches/transforms-3/2ef73baf9437e4f91b1fafea81d3b351/transformed/jetified-window-1.1.0-alpha04/AndroidManifest.xml:22:5-29:19
+MERGED from [com.google.android.gms:play-services-tflite-gpu:16.0.0] /home/nicolehwang/.gradle/caches/transforms-3/5b06a0b21215f100d1dbf7a1a674497f/transformed/jetified-play-services-tflite-gpu-16.0.0/AndroidManifest.xml:8:5-22:19
+MERGED from [com.google.android.gms:play-services-tflite-gpu:16.0.0] /home/nicolehwang/.gradle/caches/transforms-3/5b06a0b21215f100d1dbf7a1a674497f/transformed/jetified-play-services-tflite-gpu-16.0.0/AndroidManifest.xml:8:5-22:19
+MERGED from [com.google.android.gms:play-services-tflite-impl:16.0.0] /home/nicolehwang/.gradle/caches/transforms-3/d7eb5c4d45a5275986f0947930b14d5b/transformed/jetified-play-services-tflite-impl-16.0.0/AndroidManifest.xml:8:5-22:19
+MERGED from [com.google.android.gms:play-services-tflite-impl:16.0.0] /home/nicolehwang/.gradle/caches/transforms-3/d7eb5c4d45a5275986f0947930b14d5b/transformed/jetified-play-services-tflite-impl-16.0.0/AndroidManifest.xml:8:5-22:19
+MERGED from [com.google.android.gms:play-services-base:18.1.0] /home/nicolehwang/.gradle/caches/transforms-3/51350e12b8333e4ed4f5227951948fb2/transformed/jetified-play-services-base-18.1.0/AndroidManifest.xml:19:5-23:19
+MERGED from [com.google.android.gms:play-services-base:18.1.0] /home/nicolehwang/.gradle/caches/transforms-3/51350e12b8333e4ed4f5227951948fb2/transformed/jetified-play-services-base-18.1.0/AndroidManifest.xml:19:5-23:19
+MERGED from [com.google.android.gms:play-services-tasks:18.0.2] /home/nicolehwang/.gradle/caches/transforms-3/a739931f60acf7b161491af0a4a88c3c/transformed/jetified-play-services-tasks-18.0.2/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-tasks:18.0.2] /home/nicolehwang/.gradle/caches/transforms-3/a739931f60acf7b161491af0a4a88c3c/transformed/jetified-play-services-tasks-18.0.2/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-basement:18.1.0] /home/nicolehwang/.gradle/caches/transforms-3/2087bdcc909dd99560995b08d41cdae1/transformed/jetified-play-services-basement-18.1.0/AndroidManifest.xml:20:5-24:19
+MERGED from [com.google.android.gms:play-services-basement:18.1.0] /home/nicolehwang/.gradle/caches/transforms-3/2087bdcc909dd99560995b08d41cdae1/transformed/jetified-play-services-basement-18.1.0/AndroidManifest.xml:20:5-24:19
+MERGED from [androidx.emoji2:emoji2:1.2.0] /home/nicolehwang/.gradle/caches/transforms-3/856f222537181133276d0e5b4a7e537a/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.emoji2:emoji2:1.2.0] /home/nicolehwang/.gradle/caches/transforms-3/856f222537181133276d0e5b4a7e537a/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.core:core:1.9.0] /home/nicolehwang/.gradle/caches/transforms-3/00a20becb1160987f4cf43ef2142de00/transformed/core-1.9.0/AndroidManifest.xml:28:5-89
+MERGED from [androidx.core:core:1.9.0] /home/nicolehwang/.gradle/caches/transforms-3/00a20becb1160987f4cf43ef2142de00/transformed/core-1.9.0/AndroidManifest.xml:28:5-89
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] /home/nicolehwang/.gradle/caches/transforms-3/647a72959fc4d2651b3c2ae7f1ca4b44/transformed/jetified-lifecycle-process-2.4.1/AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] /home/nicolehwang/.gradle/caches/transforms-3/647a72959fc4d2651b3c2ae7f1ca4b44/transformed/jetified-lifecycle-process-2.4.1/AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/nicolehwang/.gradle/caches/transforms-3/8840fdbdf99a843f52eb26a028e1a850/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/nicolehwang/.gradle/caches/transforms-3/8840fdbdf99a843f52eb26a028e1a850/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] /home/nicolehwang/.gradle/caches/transforms-3/418c2b631ddc7a42b1d449c46b62a1ee/transformed/jetified-startup-runtime-1.1.1/AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] /home/nicolehwang/.gradle/caches/transforms-3/418c2b631ddc7a42b1d449c46b62a1ee/transformed/jetified-startup-runtime-1.1.1/AndroidManifest.xml:25:5-31:19
+MERGED from [com.google.android.odml:image:1.0.0-beta1] /home/nicolehwang/.gradle/caches/transforms-3/b6629dc0382b360d74dcbb155488b862/transformed/jetified-image-1.0.0-beta1/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.odml:image:1.0.0-beta1] /home/nicolehwang/.gradle/caches/transforms-3/b6629dc0382b360d74dcbb155488b862/transformed/jetified-image-1.0.0-beta1/AndroidManifest.xml:7:5-20
+MERGED from [org.tensorflow:tensorflow-lite-api:2.10.0] /home/nicolehwang/.gradle/caches/transforms-3/85bf1edae3d22fcc9cb5d23312ed7538/transformed/jetified-tensorflow-lite-api-2.10.0/AndroidManifest.xml:10:5-20
+MERGED from [org.tensorflow:tensorflow-lite-api:2.10.0] /home/nicolehwang/.gradle/caches/transforms-3/85bf1edae3d22fcc9cb5d23312ed7538/transformed/jetified-tensorflow-lite-api-2.10.0/AndroidManifest.xml:10:5-20
+MERGED from [org.tensorflow:tensorflow-lite-task-base:0.4.2] /home/nicolehwang/.gradle/caches/transforms-3/48c6d4f870a3351085f302cec72f4510/transformed/jetified-tensorflow-lite-task-base-0.4.2/AndroidManifest.xml:4:4-5:18
+MERGED from [org.tensorflow:tensorflow-lite-task-base:0.4.2] /home/nicolehwang/.gradle/caches/transforms-3/48c6d4f870a3351085f302cec72f4510/transformed/jetified-tensorflow-lite-task-base-0.4.2/AndroidManifest.xml:4:4-5:18
+MERGED from [org.tensorflow:tensorflow-lite-gpu-api:2.10.0] /home/nicolehwang/.gradle/caches/transforms-3/aa7622b9a764561494d43ec0fec68368/transformed/jetified-tensorflow-lite-gpu-api-2.10.0/AndroidManifest.xml:10:5-20
+MERGED from [org.tensorflow:tensorflow-lite-gpu-api:2.10.0] /home/nicolehwang/.gradle/caches/transforms-3/aa7622b9a764561494d43ec0fec68368/transformed/jetified-tensorflow-lite-gpu-api-2.10.0/AndroidManifest.xml:10:5-20
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.9.0] /home/nicolehwang/.gradle/caches/transforms-3/00a20becb1160987f4cf43ef2142de00/transformed/core-1.9.0/AndroidManifest.xml:28:18-86
+	android:label
+		ADDED from /home/nicolehwang/examples/lite/examples/object_detection/android_play_services/app/src/main/AndroidManifest.xml:35:9-41
+	tools:ignore
+		ADDED from /home/nicolehwang/examples/lite/examples/object_detection/android_play_services/app/src/main/AndroidManifest.xml:38:9-35
+	android:roundIcon
+		ADDED from /home/nicolehwang/examples/lite/examples/object_detection/android_play_services/app/src/main/AndroidManifest.xml:34:9-54
+	android:icon
+		ADDED from /home/nicolehwang/examples/lite/examples/object_detection/android_play_services/app/src/main/AndroidManifest.xml:33:9-43
+	android:allowBackup
+		ADDED from /home/nicolehwang/examples/lite/examples/object_detection/android_play_services/app/src/main/AndroidManifest.xml:36:9-35
+	android:taskAffinity
+		ADDED from /home/nicolehwang/examples/lite/examples/object_detection/android_play_services/app/src/main/AndroidManifest.xml:37:9-32
+activity#org.tensorflow.lite.examples.objectdetection.MainActivity
+ADDED from /home/nicolehwang/examples/lite/examples/object_detection/android_play_services/app/src/main/AndroidManifest.xml:40:9-60:20
+	android:clearTaskOnLaunch
+		ADDED from /home/nicolehwang/examples/lite/examples/object_detection/android_play_services/app/src/main/AndroidManifest.xml:42:13-45
+	android:exported
+		ADDED from /home/nicolehwang/examples/lite/examples/object_detection/android_play_services/app/src/main/AndroidManifest.xml:44:13-36
+	android:resizeableActivity
+		ADDED from /home/nicolehwang/examples/lite/examples/object_detection/android_play_services/app/src/main/AndroidManifest.xml:47:13-46
+	android:rotationAnimation
+		ADDED from /home/nicolehwang/examples/lite/examples/object_detection/android_play_services/app/src/main/AndroidManifest.xml:46:13-49
+	android:configChanges
+		ADDED from /home/nicolehwang/examples/lite/examples/object_detection/android_play_services/app/src/main/AndroidManifest.xml:48:13-91
+	tools:targetApi
+		ADDED from /home/nicolehwang/examples/lite/examples/object_detection/android_play_services/app/src/main/AndroidManifest.xml:49:13-32
+	android:icon
+		ADDED from /home/nicolehwang/examples/lite/examples/object_detection/android_play_services/app/src/main/AndroidManifest.xml:45:13-47
+	android:theme
+		ADDED from /home/nicolehwang/examples/lite/examples/object_detection/android_play_services/app/src/main/AndroidManifest.xml:43:13-44
+	android:name
+		ADDED from /home/nicolehwang/examples/lite/examples/object_detection/android_play_services/app/src/main/AndroidManifest.xml:41:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/nicolehwang/examples/lite/examples/object_detection/android_play_services/app/src/main/AndroidManifest.xml:52:13-55:29
+action#android.intent.action.MAIN
+ADDED from /home/nicolehwang/examples/lite/examples/object_detection/android_play_services/app/src/main/AndroidManifest.xml:53:17-69
+	android:name
+		ADDED from /home/nicolehwang/examples/lite/examples/object_detection/android_play_services/app/src/main/AndroidManifest.xml:53:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/nicolehwang/examples/lite/examples/object_detection/android_play_services/app/src/main/AndroidManifest.xml:54:17-77
+	android:name
+		ADDED from /home/nicolehwang/examples/lite/examples/object_detection/android_play_services/app/src/main/AndroidManifest.xml:54:27-74
+meta-data#android.notch_support
+ADDED from /home/nicolehwang/examples/lite/examples/object_detection/android_play_services/app/src/main/AndroidManifest.xml:58:13-83
+	android:value
+		ADDED from /home/nicolehwang/examples/lite/examples/object_detection/android_play_services/app/src/main/AndroidManifest.xml:58:61-81
+	android:name
+		ADDED from /home/nicolehwang/examples/lite/examples/object_detection/android_play_services/app/src/main/AndroidManifest.xml:58:24-60
+uses-sdk
+INJECTED from /home/nicolehwang/examples/lite/examples/object_detection/android_play_services/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/nicolehwang/examples/lite/examples/object_detection/android_play_services/app/src/main/AndroidManifest.xml
+INJECTED from /home/nicolehwang/examples/lite/examples/object_detection/android_play_services/app/src/main/AndroidManifest.xml
+MERGED from [androidx.databinding:databinding-adapters:7.2.2] /home/nicolehwang/.gradle/caches/transforms-3/08970be7d50c64eb0f168b9c18a99a05/transformed/databinding-adapters-7.2.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.databinding:databinding-adapters:7.2.2] /home/nicolehwang/.gradle/caches/transforms-3/08970be7d50c64eb0f168b9c18a99a05/transformed/databinding-adapters-7.2.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.databinding:databinding-ktx:7.2.2] /home/nicolehwang/.gradle/caches/transforms-3/0174c31be8b72fe16168e60a18e92cb9/transformed/jetified-databinding-ktx-7.2.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.databinding:databinding-ktx:7.2.2] /home/nicolehwang/.gradle/caches/transforms-3/0174c31be8b72fe16168e60a18e92cb9/transformed/jetified-databinding-ktx-7.2.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.databinding:databinding-runtime:7.2.2] /home/nicolehwang/.gradle/caches/transforms-3/ecd33a64cf083f6c699e639d602726cd/transformed/databinding-runtime-7.2.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.databinding:databinding-runtime:7.2.2] /home/nicolehwang/.gradle/caches/transforms-3/ecd33a64cf083f6c699e639d602726cd/transformed/databinding-runtime-7.2.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.databinding:viewbinding:7.2.2] /home/nicolehwang/.gradle/caches/transforms-3/953429f752ffb4b4db04bcefd4c671a8/transformed/jetified-viewbinding-7.2.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.databinding:viewbinding:7.2.2] /home/nicolehwang/.gradle/caches/transforms-3/953429f752ffb4b4db04bcefd4c671a8/transformed/jetified-viewbinding-7.2.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-ui-ktx:2.5.3] /home/nicolehwang/.gradle/caches/transforms-3/49fa8d688412869e179488fb8cf784a6/transformed/navigation-ui-ktx-2.5.3/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-ui-ktx:2.5.3] /home/nicolehwang/.gradle/caches/transforms-3/49fa8d688412869e179488fb8cf784a6/transformed/navigation-ui-ktx-2.5.3/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-ui:2.5.3] /home/nicolehwang/.gradle/caches/transforms-3/1bbc4e046da2d916cd3e41212823975b/transformed/navigation-ui-2.5.3/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-ui:2.5.3] /home/nicolehwang/.gradle/caches/transforms-3/1bbc4e046da2d916cd3e41212823975b/transformed/navigation-ui-2.5.3/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.material:material:1.7.0] /home/nicolehwang/.gradle/caches/transforms-3/f6f95f21b9cd316aff2159160e0c3edf/transformed/material-1.7.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.material:material:1.7.0] /home/nicolehwang/.gradle/caches/transforms-3/f6f95f21b9cd316aff2159160e0c3edf/transformed/material-1.7.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /home/nicolehwang/.gradle/caches/transforms-3/a720964091b6bb4aa5441d54a939ec57/transformed/constraintlayout-2.1.4/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /home/nicolehwang/.gradle/caches/transforms-3/a720964091b6bb4aa5441d54a939ec57/transformed/constraintlayout-2.1.4/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.camera:camera-view:1.3.0-alpha01] /home/nicolehwang/.gradle/caches/transforms-3/b86ee9ae8703165a1e08d0238f6cb25e/transformed/jetified-camera-view-1.3.0-alpha01/AndroidManifest.xml:20:5-44
+MERGED from [androidx.camera:camera-view:1.3.0-alpha01] /home/nicolehwang/.gradle/caches/transforms-3/b86ee9ae8703165a1e08d0238f6cb25e/transformed/jetified-camera-view-1.3.0-alpha01/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.5.1] /home/nicolehwang/.gradle/caches/transforms-3/42b138101727fa8719397f74d7d8dbf5/transformed/jetified-appcompat-resources-1.5.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.5.1] /home/nicolehwang/.gradle/caches/transforms-3/42b138101727fa8719397f74d7d8dbf5/transformed/jetified-appcompat-resources-1.5.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.5.1] /home/nicolehwang/.gradle/caches/transforms-3/50362e2b860422b7473f05cdd35829b2/transformed/appcompat-1.5.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.5.1] /home/nicolehwang/.gradle/caches/transforms-3/50362e2b860422b7473f05cdd35829b2/transformed/appcompat-1.5.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.camera:camera-camera2:1.3.0-alpha01] /home/nicolehwang/.gradle/caches/transforms-3/dd7578637c0534a162238ddf9fb62fb5/transformed/jetified-camera-camera2-1.3.0-alpha01/AndroidManifest.xml:21:5-44
+MERGED from [androidx.camera:camera-camera2:1.3.0-alpha01] /home/nicolehwang/.gradle/caches/transforms-3/dd7578637c0534a162238ddf9fb62fb5/transformed/jetified-camera-camera2-1.3.0-alpha01/AndroidManifest.xml:21:5-44
+MERGED from [androidx.camera:camera-lifecycle:1.3.0-alpha01] /home/nicolehwang/.gradle/caches/transforms-3/d41bfe048d92523133da41717bddf725/transformed/jetified-camera-lifecycle-1.3.0-alpha01/AndroidManifest.xml:20:5-44
+MERGED from [androidx.camera:camera-lifecycle:1.3.0-alpha01] /home/nicolehwang/.gradle/caches/transforms-3/d41bfe048d92523133da41717bddf725/transformed/jetified-camera-lifecycle-1.3.0-alpha01/AndroidManifest.xml:20:5-44
+MERGED from [androidx.camera:camera-core:1.3.0-alpha01] /home/nicolehwang/.gradle/caches/transforms-3/89afe9aa7e225c2fda5f86427ae5bda0/transformed/jetified-camera-core-1.3.0-alpha01/AndroidManifest.xml:21:5-44
+MERGED from [androidx.camera:camera-core:1.3.0-alpha01] /home/nicolehwang/.gradle/caches/transforms-3/89afe9aa7e225c2fda5f86427ae5bda0/transformed/jetified-camera-core-1.3.0-alpha01/AndroidManifest.xml:21:5-44
+MERGED from [androidx.navigation:navigation-fragment-ktx:2.5.3] /home/nicolehwang/.gradle/caches/transforms-3/72252ee14a4c0390254a17f9ee24fa8f/transformed/navigation-fragment-ktx-2.5.3/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-fragment-ktx:2.5.3] /home/nicolehwang/.gradle/caches/transforms-3/72252ee14a4c0390254a17f9ee24fa8f/transformed/navigation-fragment-ktx-2.5.3/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-fragment:2.5.3] /home/nicolehwang/.gradle/caches/transforms-3/b59f2acf261c8d10986d46eb862fd1c2/transformed/navigation-fragment-2.5.3/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-fragment:2.5.3] /home/nicolehwang/.gradle/caches/transforms-3/b59f2acf261c8d10986d46eb862fd1c2/transformed/navigation-fragment-2.5.3/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.2.0] /home/nicolehwang/.gradle/caches/transforms-3/175620ada574c8161b84c3baf0e3529a/transformed/slidingpanelayout-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.2.0] /home/nicolehwang/.gradle/caches/transforms-3/175620ada574c8161b84c3baf0e3529a/transformed/slidingpanelayout-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.window:window:1.1.0-alpha04] /home/nicolehwang/.gradle/caches/transforms-3/2ef73baf9437e4f91b1fafea81d3b351/transformed/jetified-window-1.1.0-alpha04/AndroidManifest.xml:20:5-44
+MERGED from [androidx.window:window:1.1.0-alpha04] /home/nicolehwang/.gradle/caches/transforms-3/2ef73baf9437e4f91b1fafea81d3b351/transformed/jetified-window-1.1.0-alpha04/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /home/nicolehwang/.gradle/caches/transforms-3/194e973312c41d3ec2174190893c4330/transformed/jetified-viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /home/nicolehwang/.gradle/caches/transforms-3/194e973312c41d3ec2174190893c4330/transformed/jetified-viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [org.tensorflow:tensorflow-lite-task-vision-play-services:0.4.2] /home/nicolehwang/.gradle/caches/transforms-3/93cab6b4c545b8c55cfcfe7050511d66/transformed/jetified-tensorflow-lite-task-vision-play-services-0.4.2/AndroidManifest.xml:5:5-44
+MERGED from [org.tensorflow:tensorflow-lite-task-vision-play-services:0.4.2] /home/nicolehwang/.gradle/caches/transforms-3/93cab6b4c545b8c55cfcfe7050511d66/transformed/jetified-tensorflow-lite-task-vision-play-services-0.4.2/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tflite-gpu:16.0.0] /home/nicolehwang/.gradle/caches/transforms-3/5b06a0b21215f100d1dbf7a1a674497f/transformed/jetified-play-services-tflite-gpu-16.0.0/AndroidManifest.xml:6:5-44
+MERGED from [com.google.android.gms:play-services-tflite-gpu:16.0.0] /home/nicolehwang/.gradle/caches/transforms-3/5b06a0b21215f100d1dbf7a1a674497f/transformed/jetified-play-services-tflite-gpu-16.0.0/AndroidManifest.xml:6:5-44
+MERGED from [com.google.android.gms:play-services-tflite-support:16.0.0] /home/nicolehwang/.gradle/caches/transforms-3/9b689e417406b5bc37bb8a7a129c7333/transformed/jetified-play-services-tflite-support-16.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tflite-support:16.0.0] /home/nicolehwang/.gradle/caches/transforms-3/9b689e417406b5bc37bb8a7a129c7333/transformed/jetified-play-services-tflite-support-16.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tflite-java:16.0.0] /home/nicolehwang/.gradle/caches/transforms-3/e7b10c3817470080030895fdcd11436d/transformed/jetified-play-services-tflite-java-16.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tflite-java:16.0.0] /home/nicolehwang/.gradle/caches/transforms-3/e7b10c3817470080030895fdcd11436d/transformed/jetified-play-services-tflite-java-16.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tflite-impl:16.0.0] /home/nicolehwang/.gradle/caches/transforms-3/d7eb5c4d45a5275986f0947930b14d5b/transformed/jetified-play-services-tflite-impl-16.0.0/AndroidManifest.xml:6:5-44
+MERGED from [com.google.android.gms:play-services-tflite-impl:16.0.0] /home/nicolehwang/.gradle/caches/transforms-3/d7eb5c4d45a5275986f0947930b14d5b/transformed/jetified-play-services-tflite-impl-16.0.0/AndroidManifest.xml:6:5-44
+MERGED from [com.google.android.gms:play-services-base:18.1.0] /home/nicolehwang/.gradle/caches/transforms-3/51350e12b8333e4ed4f5227951948fb2/transformed/jetified-play-services-base-18.1.0/AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-base:18.1.0] /home/nicolehwang/.gradle/caches/transforms-3/51350e12b8333e4ed4f5227951948fb2/transformed/jetified-play-services-base-18.1.0/AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-tasks:18.0.2] /home/nicolehwang/.gradle/caches/transforms-3/a739931f60acf7b161491af0a4a88c3c/transformed/jetified-play-services-tasks-18.0.2/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tasks:18.0.2] /home/nicolehwang/.gradle/caches/transforms-3/a739931f60acf7b161491af0a4a88c3c/transformed/jetified-play-services-tasks-18.0.2/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement:18.1.0] /home/nicolehwang/.gradle/caches/transforms-3/2087bdcc909dd99560995b08d41cdae1/transformed/jetified-play-services-basement-18.1.0/AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-basement:18.1.0] /home/nicolehwang/.gradle/caches/transforms-3/2087bdcc909dd99560995b08d41cdae1/transformed/jetified-play-services-basement-18.1.0/AndroidManifest.xml:18:5-43
+MERGED from [androidx.fragment:fragment-ktx:1.5.4] /home/nicolehwang/.gradle/caches/transforms-3/0963132b1feead026105f7ff767088b7/transformed/jetified-fragment-ktx-1.5.4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment-ktx:1.5.4] /home/nicolehwang/.gradle/caches/transforms-3/0963132b1feead026105f7ff767088b7/transformed/jetified-fragment-ktx-1.5.4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.5.4] /home/nicolehwang/.gradle/caches/transforms-3/a527cfac546b1bd05db7229a4d07ee63/transformed/fragment-1.5.4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.5.4] /home/nicolehwang/.gradle/caches/transforms-3/a527cfac546b1bd05db7229a4d07ee63/transformed/fragment-1.5.4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.5.3] /home/nicolehwang/.gradle/caches/transforms-3/f5d1841b606f156569c662f18353fb5c/transformed/navigation-runtime-ktx-2.5.3/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.5.3] /home/nicolehwang/.gradle/caches/transforms-3/f5d1841b606f156569c662f18353fb5c/transformed/navigation-runtime-ktx-2.5.3/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime:2.5.3] /home/nicolehwang/.gradle/caches/transforms-3/2b3fc6145bba267766ca8291c7a683d0/transformed/navigation-runtime-2.5.3/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime:2.5.3] /home/nicolehwang/.gradle/caches/transforms-3/2b3fc6145bba267766ca8291c7a683d0/transformed/navigation-runtime-2.5.3/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity-ktx:1.5.1] /home/nicolehwang/.gradle/caches/transforms-3/9449d9ea490ddef525723173ffec71af/transformed/jetified-activity-ktx-1.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity-ktx:1.5.1] /home/nicolehwang/.gradle/caches/transforms-3/9449d9ea490ddef525723173ffec71af/transformed/jetified-activity-ktx-1.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.5.1] /home/nicolehwang/.gradle/caches/transforms-3/0f30596bfa46a3f3bb83588558b95747/transformed/jetified-activity-1.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.5.1] /home/nicolehwang/.gradle/caches/transforms-3/0f30596bfa46a3f3bb83588558b95747/transformed/jetified-activity-1.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] /home/nicolehwang/.gradle/caches/transforms-3/28545e122c74a9ad2a951b964ef92bf7/transformed/jetified-emoji2-views-helper-1.2.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] /home/nicolehwang/.gradle/caches/transforms-3/28545e122c74a9ad2a951b964ef92bf7/transformed/jetified-emoji2-views-helper-1.2.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2:1.2.0] /home/nicolehwang/.gradle/caches/transforms-3/856f222537181133276d0e5b4a7e537a/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.emoji2:emoji2:1.2.0] /home/nicolehwang/.gradle/caches/transforms-3/856f222537181133276d0e5b4a7e537a/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /home/nicolehwang/.gradle/caches/transforms-3/497303ab0e4842f04fc4e772ceb53ea1/transformed/drawerlayout-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /home/nicolehwang/.gradle/caches/transforms-3/497303ab0e4842f04fc4e772ceb53ea1/transformed/drawerlayout-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /home/nicolehwang/.gradle/caches/transforms-3/2db3605295359f087c80dd64b20c9c11/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /home/nicolehwang/.gradle/caches/transforms-3/2db3605295359f087c80dd64b20c9c11/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /home/nicolehwang/.gradle/caches/transforms-3/926051914d5b1150a6cc461cbbaca007/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /home/nicolehwang/.gradle/caches/transforms-3/926051914d5b1150a6cc461cbbaca007/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/nicolehwang/.gradle/caches/transforms-3/feeba58a2f798daad010e05c6d5e97fe/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/nicolehwang/.gradle/caches/transforms-3/feeba58a2f798daad010e05c6d5e97fe/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/nicolehwang/.gradle/caches/transforms-3/17990b7d7b32f7cbca04273ae48dc8f3/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/nicolehwang/.gradle/caches/transforms-3/17990b7d7b32f7cbca04273ae48dc8f3/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/nicolehwang/.gradle/caches/transforms-3/f997e3ec64fb1686e17a333a788fa19b/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/nicolehwang/.gradle/caches/transforms-3/f997e3ec64fb1686e17a333a788fa19b/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/nicolehwang/.gradle/caches/transforms-3/5cd06f174f77a398b24761870197f906/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/nicolehwang/.gradle/caches/transforms-3/5cd06f174f77a398b24761870197f906/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /home/nicolehwang/.gradle/caches/transforms-3/e969cfb605b74534631f32d72fd4b4c9/transformed/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /home/nicolehwang/.gradle/caches/transforms-3/e969cfb605b74534631f32d72fd4b4c9/transformed/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/nicolehwang/.gradle/caches/transforms-3/fed3e2404fb04cdd08875166dd654ef5/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/nicolehwang/.gradle/caches/transforms-3/fed3e2404fb04cdd08875166dd654ef5/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.1.0] /home/nicolehwang/.gradle/caches/transforms-3/05e608f2955529c0eff0e6fc21556750/transformed/customview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] /home/nicolehwang/.gradle/caches/transforms-3/05e608f2955529c0eff0e6fc21556750/transformed/customview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.4.1] /home/nicolehwang/.gradle/caches/transforms-3/2e431123611cd87a067fa13dee710114/transformed/transition-1.4.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.4.1] /home/nicolehwang/.gradle/caches/transforms-3/2e431123611cd87a067fa13dee710114/transformed/transition-1.4.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.9.0] /home/nicolehwang/.gradle/caches/transforms-3/00a20becb1160987f4cf43ef2142de00/transformed/core-1.9.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.9.0] /home/nicolehwang/.gradle/caches/transforms-3/00a20becb1160987f4cf43ef2142de00/transformed/core-1.9.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-common-ktx:2.5.3] /home/nicolehwang/.gradle/caches/transforms-3/7860f26a62d5b149a5b30bbe00eb3959/transformed/navigation-common-ktx-2.5.3/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common-ktx:2.5.3] /home/nicolehwang/.gradle/caches/transforms-3/7860f26a62d5b149a5b30bbe00eb3959/transformed/navigation-common-ktx-2.5.3/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common:2.5.3] /home/nicolehwang/.gradle/caches/transforms-3/9103f7921be948113f57f2e6b4193601/transformed/navigation-common-2.5.3/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common:2.5.3] /home/nicolehwang/.gradle/caches/transforms-3/9103f7921be948113f57f2e6b4193601/transformed/navigation-common-2.5.3/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.5.1] /home/nicolehwang/.gradle/caches/transforms-3/6d88b1a9aa973799accd589c4688bfb0/transformed/jetified-lifecycle-viewmodel-ktx-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.5.1] /home/nicolehwang/.gradle/caches/transforms-3/6d88b1a9aa973799accd589c4688bfb0/transformed/jetified-lifecycle-viewmodel-ktx-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.5.1] /home/nicolehwang/.gradle/caches/transforms-3/3853c83dc755d85fddcac05fa3d3c47f/transformed/lifecycle-viewmodel-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.5.1] /home/nicolehwang/.gradle/caches/transforms-3/3853c83dc755d85fddcac05fa3d3c47f/transformed/lifecycle-viewmodel-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.5.1] /home/nicolehwang/.gradle/caches/transforms-3/51c62d4725d13bff114167a57383b56b/transformed/jetified-lifecycle-viewmodel-savedstate-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.5.1] /home/nicolehwang/.gradle/caches/transforms-3/51c62d4725d13bff114167a57383b56b/transformed/jetified-lifecycle-viewmodel-savedstate-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core-ktx:1.9.0] /home/nicolehwang/.gradle/caches/transforms-3/4bdcaa510e94443873cd5d45ea3c6bce/transformed/jetified-core-ktx-1.9.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-ktx:1.9.0] /home/nicolehwang/.gradle/caches/transforms-3/4bdcaa510e94443873cd5d45ea3c6bce/transformed/jetified-core-ktx-1.9.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.5.1] /home/nicolehwang/.gradle/caches/transforms-3/9048c012d3fb74e236fd20edd2039fa4/transformed/jetified-lifecycle-runtime-ktx-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.5.1] /home/nicolehwang/.gradle/caches/transforms-3/9048c012d3fb74e236fd20edd2039fa4/transformed/jetified-lifecycle-runtime-ktx-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.1.0] /home/nicolehwang/.gradle/caches/transforms-3/8fac092267cc1367ce953829aeb57968/transformed/localbroadcastmanager-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.1.0] /home/nicolehwang/.gradle/caches/transforms-3/8fac092267cc1367ce953829aeb57968/transformed/localbroadcastmanager-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-service:2.2.0] /home/nicolehwang/.gradle/caches/transforms-3/e4551efe557e42e08e4fc3faf5dd37dc/transformed/jetified-lifecycle-service-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-service:2.2.0] /home/nicolehwang/.gradle/caches/transforms-3/e4551efe557e42e08e4fc3faf5dd37dc/transformed/jetified-lifecycle-service-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] /home/nicolehwang/.gradle/caches/transforms-3/647a72959fc4d2651b3c2ae7f1ca4b44/transformed/jetified-lifecycle-process-2.4.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] /home/nicolehwang/.gradle/caches/transforms-3/647a72959fc4d2651b3c2ae7f1ca4b44/transformed/jetified-lifecycle-process-2.4.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.5.1] /home/nicolehwang/.gradle/caches/transforms-3/581380f5e23a99f062eb86e3866041ff/transformed/lifecycle-runtime-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.5.1] /home/nicolehwang/.gradle/caches/transforms-3/581380f5e23a99f062eb86e3866041ff/transformed/lifecycle-runtime-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/nicolehwang/.gradle/caches/transforms-3/bcaa365595dcc58066460eb5661f9995/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/nicolehwang/.gradle/caches/transforms-3/bcaa365595dcc58066460eb5661f9995/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.0] /home/nicolehwang/.gradle/caches/transforms-3/004b808ce4e5813e28a37509771a1eed/transformed/jetified-savedstate-ktx-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.0] /home/nicolehwang/.gradle/caches/transforms-3/004b808ce4e5813e28a37509771a1eed/transformed/jetified-savedstate-ktx-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.2.0] /home/nicolehwang/.gradle/caches/transforms-3/a496ae15161c598e7d5d6e7c9d71c52e/transformed/jetified-savedstate-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.2.0] /home/nicolehwang/.gradle/caches/transforms-3/a496ae15161c598e7d5d6e7c9d71c52e/transformed/jetified-savedstate-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cardview:cardview:1.0.0] /home/nicolehwang/.gradle/caches/transforms-3/4dc1e7d7785dc210398cf660b38b095b/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /home/nicolehwang/.gradle/caches/transforms-3/4dc1e7d7785dc210398cf660b38b095b/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.exifinterface:exifinterface:1.3.2] /home/nicolehwang/.gradle/caches/transforms-3/873262327f411d0323ab08c409aeeca1/transformed/exifinterface-1.3.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.exifinterface:exifinterface:1.3.2] /home/nicolehwang/.gradle/caches/transforms-3/873262327f411d0323ab08c409aeeca1/transformed/exifinterface-1.3.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/nicolehwang/.gradle/caches/transforms-3/8840fdbdf99a843f52eb26a028e1a850/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/nicolehwang/.gradle/caches/transforms-3/8840fdbdf99a843f52eb26a028e1a850/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.2.0] /home/nicolehwang/.gradle/caches/transforms-3/c8e1adf3fb60e17f41dfb32502c86a20/transformed/lifecycle-livedata-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.2.0] /home/nicolehwang/.gradle/caches/transforms-3/c8e1adf3fb60e17f41dfb32502c86a20/transformed/lifecycle-livedata-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.5.1] /home/nicolehwang/.gradle/caches/transforms-3/60a832ee3206988a42941f600bfa1014/transformed/jetified-lifecycle-livedata-core-ktx-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.5.1] /home/nicolehwang/.gradle/caches/transforms-3/60a832ee3206988a42941f600bfa1014/transformed/jetified-lifecycle-livedata-core-ktx-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.5.1] /home/nicolehwang/.gradle/caches/transforms-3/4052be52c5c73b07ac9b0df17f2a4603/transformed/lifecycle-livedata-core-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.5.1] /home/nicolehwang/.gradle/caches/transforms-3/4052be52c5c73b07ac9b0df17f2a4603/transformed/lifecycle-livedata-core-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /home/nicolehwang/.gradle/caches/transforms-3/472c36bab11e5c37d9bb63ebc5a982ee/transformed/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /home/nicolehwang/.gradle/caches/transforms-3/472c36bab11e5c37d9bb63ebc5a982ee/transformed/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] /home/nicolehwang/.gradle/caches/transforms-3/418c2b631ddc7a42b1d449c46b62a1ee/transformed/jetified-startup-runtime-1.1.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] /home/nicolehwang/.gradle/caches/transforms-3/418c2b631ddc7a42b1d449c46b62a1ee/transformed/jetified-startup-runtime-1.1.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.tracing:tracing:1.0.0] /home/nicolehwang/.gradle/caches/transforms-3/1e13dc316aa023794451ddd3ea51fd2b/transformed/jetified-tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] /home/nicolehwang/.gradle/caches/transforms-3/1e13dc316aa023794451ddd3ea51fd2b/transformed/jetified-tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/nicolehwang/.gradle/caches/transforms-3/a4f1e45ae106a4351ba7808130a12c34/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/nicolehwang/.gradle/caches/transforms-3/a4f1e45ae106a4351ba7808130a12c34/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/nicolehwang/.gradle/caches/transforms-3/d07faeacb1c83920216b07b2c58bb7fc/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/nicolehwang/.gradle/caches/transforms-3/d07faeacb1c83920216b07b2c58bb7fc/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /home/nicolehwang/.gradle/caches/transforms-3/95f698a1a76ef02535c5a10273be5414/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /home/nicolehwang/.gradle/caches/transforms-3/95f698a1a76ef02535c5a10273be5414/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] /home/nicolehwang/.gradle/caches/transforms-3/a28e209f61610994a831264bbdf5aabd/transformed/jetified-annotation-experimental-1.3.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] /home/nicolehwang/.gradle/caches/transforms-3/a28e209f61610994a831264bbdf5aabd/transformed/jetified-annotation-experimental-1.3.0/AndroidManifest.xml:20:5-44
+MERGED from [org.tensorflow:tensorflow-lite-support-api:0.4.2] /home/nicolehwang/.gradle/caches/transforms-3/261c667893faff729dea0090fd5a80e0/transformed/jetified-tensorflow-lite-support-api-0.4.2/AndroidManifest.xml:4:3-71
+MERGED from [org.tensorflow:tensorflow-lite-support-api:0.4.2] /home/nicolehwang/.gradle/caches/transforms-3/261c667893faff729dea0090fd5a80e0/transformed/jetified-tensorflow-lite-support-api-0.4.2/AndroidManifest.xml:4:3-71
+MERGED from [com.google.android.odml:image:1.0.0-beta1] /home/nicolehwang/.gradle/caches/transforms-3/b6629dc0382b360d74dcbb155488b862/transformed/jetified-image-1.0.0-beta1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.odml:image:1.0.0-beta1] /home/nicolehwang/.gradle/caches/transforms-3/b6629dc0382b360d74dcbb155488b862/transformed/jetified-image-1.0.0-beta1/AndroidManifest.xml:5:5-44
+MERGED from [org.tensorflow:tensorflow-lite-api:2.10.0] /home/nicolehwang/.gradle/caches/transforms-3/85bf1edae3d22fcc9cb5d23312ed7538/transformed/jetified-tensorflow-lite-api-2.10.0/AndroidManifest.xml:7:5-8:41
+MERGED from [org.tensorflow:tensorflow-lite-api:2.10.0] /home/nicolehwang/.gradle/caches/transforms-3/85bf1edae3d22fcc9cb5d23312ed7538/transformed/jetified-tensorflow-lite-api-2.10.0/AndroidManifest.xml:7:5-8:41
+MERGED from [org.tensorflow:tensorflow-lite-gpu-api:2.10.0] /home/nicolehwang/.gradle/caches/transforms-3/aa7622b9a764561494d43ec0fec68368/transformed/jetified-tensorflow-lite-gpu-api-2.10.0/AndroidManifest.xml:7:5-8:41
+MERGED from [org.tensorflow:tensorflow-lite-gpu-api:2.10.0] /home/nicolehwang/.gradle/caches/transforms-3/aa7622b9a764561494d43ec0fec68368/transformed/jetified-tensorflow-lite-gpu-api-2.10.0/AndroidManifest.xml:7:5-8:41
+INJECTED from /home/nicolehwang/examples/lite/examples/object_detection/android_play_services/app/src/main/AndroidManifest.xml
+INJECTED from /home/nicolehwang/examples/lite/examples/object_detection/android_play_services/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/nicolehwang/examples/lite/examples/object_detection/android_play_services/app/src/main/AndroidManifest.xml
+		ADDED from /home/nicolehwang/examples/lite/examples/object_detection/android_play_services/app/src/main/AndroidManifest.xml
+		INJECTED from /home/nicolehwang/examples/lite/examples/object_detection/android_play_services/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/nicolehwang/examples/lite/examples/object_detection/android_play_services/app/src/main/AndroidManifest.xml
+		ADDED from /home/nicolehwang/examples/lite/examples/object_detection/android_play_services/app/src/main/AndroidManifest.xml
+		MERGED from /home/nicolehwang/examples/lite/examples/object_detection/android_play_services/app/src/main/AndroidManifest.xml
+		MERGED from /home/nicolehwang/examples/lite/examples/object_detection/android_play_services/app/src/main/AndroidManifest.xml
+		INJECTED from /home/nicolehwang/examples/lite/examples/object_detection/android_play_services/app/src/main/AndroidManifest.xml
+service#androidx.camera.core.impl.MetadataHolderService
+ADDED from [androidx.camera:camera-camera2:1.3.0-alpha01] /home/nicolehwang/.gradle/caches/transforms-3/dd7578637c0534a162238ddf9fb62fb5/transformed/jetified-camera-camera2-1.3.0-alpha01/AndroidManifest.xml:24:9-33:19
+MERGED from [androidx.camera:camera-core:1.3.0-alpha01] /home/nicolehwang/.gradle/caches/transforms-3/89afe9aa7e225c2fda5f86427ae5bda0/transformed/jetified-camera-core-1.3.0-alpha01/AndroidManifest.xml:29:9-33:78
+MERGED from [androidx.camera:camera-core:1.3.0-alpha01] /home/nicolehwang/.gradle/caches/transforms-3/89afe9aa7e225c2fda5f86427ae5bda0/transformed/jetified-camera-core-1.3.0-alpha01/AndroidManifest.xml:29:9-33:78
+	tools:node
+		ADDED from [androidx.camera:camera-camera2:1.3.0-alpha01] /home/nicolehwang/.gradle/caches/transforms-3/dd7578637c0534a162238ddf9fb62fb5/transformed/jetified-camera-camera2-1.3.0-alpha01/AndroidManifest.xml:29:13-31
+	android:enabled
+		ADDED from [androidx.camera:camera-camera2:1.3.0-alpha01] /home/nicolehwang/.gradle/caches/transforms-3/dd7578637c0534a162238ddf9fb62fb5/transformed/jetified-camera-camera2-1.3.0-alpha01/AndroidManifest.xml:26:13-36
+	android:exported
+		ADDED from [androidx.camera:camera-camera2:1.3.0-alpha01] /home/nicolehwang/.gradle/caches/transforms-3/dd7578637c0534a162238ddf9fb62fb5/transformed/jetified-camera-camera2-1.3.0-alpha01/AndroidManifest.xml:27:13-37
+	tools:ignore
+		ADDED from [androidx.camera:camera-camera2:1.3.0-alpha01] /home/nicolehwang/.gradle/caches/transforms-3/dd7578637c0534a162238ddf9fb62fb5/transformed/jetified-camera-camera2-1.3.0-alpha01/AndroidManifest.xml:28:13-75
+	android:name
+		ADDED from [androidx.camera:camera-camera2:1.3.0-alpha01] /home/nicolehwang/.gradle/caches/transforms-3/dd7578637c0534a162238ddf9fb62fb5/transformed/jetified-camera-camera2-1.3.0-alpha01/AndroidManifest.xml:25:13-75
+meta-data#androidx.camera.core.impl.MetadataHolderService.DEFAULT_CONFIG_PROVIDER
+ADDED from [androidx.camera:camera-camera2:1.3.0-alpha01] /home/nicolehwang/.gradle/caches/transforms-3/dd7578637c0534a162238ddf9fb62fb5/transformed/jetified-camera-camera2-1.3.0-alpha01/AndroidManifest.xml:30:13-32:89
+	android:value
+		ADDED from [androidx.camera:camera-camera2:1.3.0-alpha01] /home/nicolehwang/.gradle/caches/transforms-3/dd7578637c0534a162238ddf9fb62fb5/transformed/jetified-camera-camera2-1.3.0-alpha01/AndroidManifest.xml:32:17-86
+	android:name
+		ADDED from [androidx.camera:camera-camera2:1.3.0-alpha01] /home/nicolehwang/.gradle/caches/transforms-3/dd7578637c0534a162238ddf9fb62fb5/transformed/jetified-camera-camera2-1.3.0-alpha01/AndroidManifest.xml:31:17-103
+uses-library#androidx.window.extensions
+ADDED from [androidx.window:window:1.1.0-alpha04] /home/nicolehwang/.gradle/caches/transforms-3/2ef73baf9437e4f91b1fafea81d3b351/transformed/jetified-window-1.1.0-alpha04/AndroidManifest.xml:23:9-25:40
+	android:required
+		ADDED from [androidx.window:window:1.1.0-alpha04] /home/nicolehwang/.gradle/caches/transforms-3/2ef73baf9437e4f91b1fafea81d3b351/transformed/jetified-window-1.1.0-alpha04/AndroidManifest.xml:25:13-37
+	android:name
+		ADDED from [androidx.window:window:1.1.0-alpha04] /home/nicolehwang/.gradle/caches/transforms-3/2ef73baf9437e4f91b1fafea81d3b351/transformed/jetified-window-1.1.0-alpha04/AndroidManifest.xml:24:13-54
+uses-library#androidx.window.sidecar
+ADDED from [androidx.window:window:1.1.0-alpha04] /home/nicolehwang/.gradle/caches/transforms-3/2ef73baf9437e4f91b1fafea81d3b351/transformed/jetified-window-1.1.0-alpha04/AndroidManifest.xml:26:9-28:40
+	android:required
+		ADDED from [androidx.window:window:1.1.0-alpha04] /home/nicolehwang/.gradle/caches/transforms-3/2ef73baf9437e4f91b1fafea81d3b351/transformed/jetified-window-1.1.0-alpha04/AndroidManifest.xml:28:13-37
+	android:name
+		ADDED from [androidx.window:window:1.1.0-alpha04] /home/nicolehwang/.gradle/caches/transforms-3/2ef73baf9437e4f91b1fafea81d3b351/transformed/jetified-window-1.1.0-alpha04/AndroidManifest.xml:27:13-51
+service#com.google.android.gms.metadata.ModuleDependencies
+ADDED from [com.google.android.gms:play-services-tflite-gpu:16.0.0] /home/nicolehwang/.gradle/caches/transforms-3/5b06a0b21215f100d1dbf7a1a674497f/transformed/jetified-play-services-tflite-gpu-16.0.0/AndroidManifest.xml:9:9-21:19
+MERGED from [com.google.android.gms:play-services-tflite-impl:16.0.0] /home/nicolehwang/.gradle/caches/transforms-3/d7eb5c4d45a5275986f0947930b14d5b/transformed/jetified-play-services-tflite-impl-16.0.0/AndroidManifest.xml:9:9-21:19
+MERGED from [com.google.android.gms:play-services-tflite-impl:16.0.0] /home/nicolehwang/.gradle/caches/transforms-3/d7eb5c4d45a5275986f0947930b14d5b/transformed/jetified-play-services-tflite-impl-16.0.0/AndroidManifest.xml:9:9-21:19
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-tflite-gpu:16.0.0] /home/nicolehwang/.gradle/caches/transforms-3/5b06a0b21215f100d1dbf7a1a674497f/transformed/jetified-play-services-tflite-gpu-16.0.0/AndroidManifest.xml:11:13-36
+	android:exported
+		ADDED from [com.google.android.gms:play-services-tflite-gpu:16.0.0] /home/nicolehwang/.gradle/caches/transforms-3/5b06a0b21215f100d1dbf7a1a674497f/transformed/jetified-play-services-tflite-gpu-16.0.0/AndroidManifest.xml:12:13-37
+	tools:ignore
+		ADDED from [com.google.android.gms:play-services-tflite-gpu:16.0.0] /home/nicolehwang/.gradle/caches/transforms-3/5b06a0b21215f100d1dbf7a1a674497f/transformed/jetified-play-services-tflite-gpu-16.0.0/AndroidManifest.xml:13:13-40
+	android:name
+		ADDED from [com.google.android.gms:play-services-tflite-gpu:16.0.0] /home/nicolehwang/.gradle/caches/transforms-3/5b06a0b21215f100d1dbf7a1a674497f/transformed/jetified-play-services-tflite-gpu-16.0.0/AndroidManifest.xml:10:13-78
+intent-filter#action:name:com.google.android.gms.metadata.MODULE_DEPENDENCIES
+ADDED from [com.google.android.gms:play-services-tflite-gpu:16.0.0] /home/nicolehwang/.gradle/caches/transforms-3/5b06a0b21215f100d1dbf7a1a674497f/transformed/jetified-play-services-tflite-gpu-16.0.0/AndroidManifest.xml:14:13-16:29
+action#com.google.android.gms.metadata.MODULE_DEPENDENCIES
+ADDED from [com.google.android.gms:play-services-tflite-gpu:16.0.0] /home/nicolehwang/.gradle/caches/transforms-3/5b06a0b21215f100d1dbf7a1a674497f/transformed/jetified-play-services-tflite-gpu-16.0.0/AndroidManifest.xml:15:17-94
+	android:name
+		ADDED from [com.google.android.gms:play-services-tflite-gpu:16.0.0] /home/nicolehwang/.gradle/caches/transforms-3/5b06a0b21215f100d1dbf7a1a674497f/transformed/jetified-play-services-tflite-gpu-16.0.0/AndroidManifest.xml:15:25-91
+meta-data#tflite_gpu_dynamite:222612000:required
+ADDED from [com.google.android.gms:play-services-tflite-gpu:16.0.0] /home/nicolehwang/.gradle/caches/transforms-3/5b06a0b21215f100d1dbf7a1a674497f/transformed/jetified-play-services-tflite-gpu-16.0.0/AndroidManifest.xml:18:13-20:36
+	android:value
+		ADDED from [com.google.android.gms:play-services-tflite-gpu:16.0.0] /home/nicolehwang/.gradle/caches/transforms-3/5b06a0b21215f100d1dbf7a1a674497f/transformed/jetified-play-services-tflite-gpu-16.0.0/AndroidManifest.xml:20:17-33
+	android:name
+		ADDED from [com.google.android.gms:play-services-tflite-gpu:16.0.0] /home/nicolehwang/.gradle/caches/transforms-3/5b06a0b21215f100d1dbf7a1a674497f/transformed/jetified-play-services-tflite-gpu-16.0.0/AndroidManifest.xml:19:17-70
+meta-data#tflite_dynamite:3:required
+ADDED from [com.google.android.gms:play-services-tflite-impl:16.0.0] /home/nicolehwang/.gradle/caches/transforms-3/d7eb5c4d45a5275986f0947930b14d5b/transformed/jetified-play-services-tflite-impl-16.0.0/AndroidManifest.xml:18:13-20:36
+	android:value
+		ADDED from [com.google.android.gms:play-services-tflite-impl:16.0.0] /home/nicolehwang/.gradle/caches/transforms-3/d7eb5c4d45a5275986f0947930b14d5b/transformed/jetified-play-services-tflite-impl-16.0.0/AndroidManifest.xml:20:17-33
+	android:name
+		ADDED from [com.google.android.gms:play-services-tflite-impl:16.0.0] /home/nicolehwang/.gradle/caches/transforms-3/d7eb5c4d45a5275986f0947930b14d5b/transformed/jetified-play-services-tflite-impl-16.0.0/AndroidManifest.xml:19:17-58
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:18.1.0] /home/nicolehwang/.gradle/caches/transforms-3/51350e12b8333e4ed4f5227951948fb2/transformed/jetified-play-services-base-18.1.0/AndroidManifest.xml:20:9-22:45
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:18.1.0] /home/nicolehwang/.gradle/caches/transforms-3/51350e12b8333e4ed4f5227951948fb2/transformed/jetified-play-services-base-18.1.0/AndroidManifest.xml:22:19-43
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:18.1.0] /home/nicolehwang/.gradle/caches/transforms-3/51350e12b8333e4ed4f5227951948fb2/transformed/jetified-play-services-base-18.1.0/AndroidManifest.xml:21:19-78
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:18.1.0] /home/nicolehwang/.gradle/caches/transforms-3/51350e12b8333e4ed4f5227951948fb2/transformed/jetified-play-services-base-18.1.0/AndroidManifest.xml:20:19-85
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:18.1.0] /home/nicolehwang/.gradle/caches/transforms-3/2087bdcc909dd99560995b08d41cdae1/transformed/jetified-play-services-basement-18.1.0/AndroidManifest.xml:21:9-23:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:18.1.0] /home/nicolehwang/.gradle/caches/transforms-3/2087bdcc909dd99560995b08d41cdae1/transformed/jetified-play-services-basement-18.1.0/AndroidManifest.xml:23:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:18.1.0] /home/nicolehwang/.gradle/caches/transforms-3/2087bdcc909dd99560995b08d41cdae1/transformed/jetified-play-services-basement-18.1.0/AndroidManifest.xml:22:13-58
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.emoji2:emoji2:1.2.0] /home/nicolehwang/.gradle/caches/transforms-3/856f222537181133276d0e5b4a7e537a/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] /home/nicolehwang/.gradle/caches/transforms-3/647a72959fc4d2651b3c2ae7f1ca4b44/transformed/jetified-lifecycle-process-2.4.1/AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] /home/nicolehwang/.gradle/caches/transforms-3/647a72959fc4d2651b3c2ae7f1ca4b44/transformed/jetified-lifecycle-process-2.4.1/AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.startup:startup-runtime:1.1.1] /home/nicolehwang/.gradle/caches/transforms-3/418c2b631ddc7a42b1d449c46b62a1ee/transformed/jetified-startup-runtime-1.1.1/AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.1.1] /home/nicolehwang/.gradle/caches/transforms-3/418c2b631ddc7a42b1d449c46b62a1ee/transformed/jetified-startup-runtime-1.1.1/AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.emoji2:emoji2:1.2.0] /home/nicolehwang/.gradle/caches/transforms-3/856f222537181133276d0e5b4a7e537a/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:28:13-31
+	android:authorities
+		ADDED from [androidx.emoji2:emoji2:1.2.0] /home/nicolehwang/.gradle/caches/transforms-3/856f222537181133276d0e5b4a7e537a/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:26:13-68
+	android:exported
+		ADDED from [androidx.emoji2:emoji2:1.2.0] /home/nicolehwang/.gradle/caches/transforms-3/856f222537181133276d0e5b4a7e537a/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.2.0] /home/nicolehwang/.gradle/caches/transforms-3/856f222537181133276d0e5b4a7e537a/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:25:13-67
+meta-data#androidx.emoji2.text.EmojiCompatInitializer
+ADDED from [androidx.emoji2:emoji2:1.2.0] /home/nicolehwang/.gradle/caches/transforms-3/856f222537181133276d0e5b4a7e537a/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.emoji2:emoji2:1.2.0] /home/nicolehwang/.gradle/caches/transforms-3/856f222537181133276d0e5b4a7e537a/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.2.0] /home/nicolehwang/.gradle/caches/transforms-3/856f222537181133276d0e5b4a7e537a/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:30:17-75
+permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.9.0] /home/nicolehwang/.gradle/caches/transforms-3/00a20becb1160987f4cf43ef2142de00/transformed/core-1.9.0/AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.9.0] /home/nicolehwang/.gradle/caches/transforms-3/00a20becb1160987f4cf43ef2142de00/transformed/core-1.9.0/AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.9.0] /home/nicolehwang/.gradle/caches/transforms-3/00a20becb1160987f4cf43ef2142de00/transformed/core-1.9.0/AndroidManifest.xml:23:9-81
+permission#org.tensorflow.lite.examples.objectdetection.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.9.0] /home/nicolehwang/.gradle/caches/transforms-3/00a20becb1160987f4cf43ef2142de00/transformed/core-1.9.0/AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.9.0] /home/nicolehwang/.gradle/caches/transforms-3/00a20becb1160987f4cf43ef2142de00/transformed/core-1.9.0/AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.9.0] /home/nicolehwang/.gradle/caches/transforms-3/00a20becb1160987f4cf43ef2142de00/transformed/core-1.9.0/AndroidManifest.xml:23:9-81
+uses-permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.9.0] /home/nicolehwang/.gradle/caches/transforms-3/00a20becb1160987f4cf43ef2142de00/transformed/core-1.9.0/AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.9.0] /home/nicolehwang/.gradle/caches/transforms-3/00a20becb1160987f4cf43ef2142de00/transformed/core-1.9.0/AndroidManifest.xml:26:22-94
+uses-permission#org.tensorflow.lite.examples.objectdetection.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.9.0] /home/nicolehwang/.gradle/caches/transforms-3/00a20becb1160987f4cf43ef2142de00/transformed/core-1.9.0/AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.9.0] /home/nicolehwang/.gradle/caches/transforms-3/00a20becb1160987f4cf43ef2142de00/transformed/core-1.9.0/AndroidManifest.xml:26:22-94
+meta-data#androidx.lifecycle.ProcessLifecycleInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.4.1] /home/nicolehwang/.gradle/caches/transforms-3/647a72959fc4d2651b3c2ae7f1ca4b44/transformed/jetified-lifecycle-process-2.4.1/AndroidManifest.xml:31:13-33:52
+	android:value
+		ADDED from [androidx.lifecycle:lifecycle-process:2.4.1] /home/nicolehwang/.gradle/caches/transforms-3/647a72959fc4d2651b3c2ae7f1ca4b44/transformed/jetified-lifecycle-process-2.4.1/AndroidManifest.xml:33:17-49
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.4.1] /home/nicolehwang/.gradle/caches/transforms-3/647a72959fc4d2651b3c2ae7f1ca4b44/transformed/jetified-lifecycle-process-2.4.1/AndroidManifest.xml:32:17-78
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+IMPLIED from /home/nicolehwang/examples/lite/examples/object_detection/android_play_services/app/src/main/AndroidManifest.xml:17:1-64:12 reason: src.java.org.tensorflow.lite.task.core has a targetSdkVersion < 4
+uses-permission#android.permission.READ_PHONE_STATE
+IMPLIED from /home/nicolehwang/examples/lite/examples/object_detection/android_play_services/app/src/main/AndroidManifest.xml:17:1-64:12 reason: src.java.org.tensorflow.lite.task.core has a targetSdkVersion < 4
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+IMPLIED from /home/nicolehwang/examples/lite/examples/object_detection/android_play_services/app/src/main/AndroidManifest.xml:17:1-64:12 reason: src.java.org.tensorflow.lite.task.core requested WRITE_EXTERNAL_STORAGE

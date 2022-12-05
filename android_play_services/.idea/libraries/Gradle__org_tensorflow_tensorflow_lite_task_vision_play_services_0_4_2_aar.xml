@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Gradle: org.tensorflow:tensorflow-lite-task-vision-play-services:0.4.2@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/25a20c1a94d54a6b49da988c995c1420/transformed/jetified-tensorflow-lite-task-vision-play-services-0.4.2/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/a315141c0527cf04b37dd2d72dd9e366/transformed/jetified-tensorflow-lite-task-vision-play-services-0.4.2/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/127a59b18c2a7f7d9321f07c031e1fc1/transformed/jetified-tensorflow-lite-task-vision-play-services-0.4.2/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/93cab6b4c545b8c55cfcfe7050511d66/transformed/jetified-tensorflow-lite-task-vision-play-services-0.4.2/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/93cab6b4c545b8c55cfcfe7050511d66/transformed/jetified-tensorflow-lite-task-vision-play-services-0.4.2/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/93cab6b4c545b8c55cfcfe7050511d66/transformed/jetified-tensorflow-lite-task-vision-play-services-0.4.2/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
